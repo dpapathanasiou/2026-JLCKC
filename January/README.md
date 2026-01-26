@@ -76,3 +76,18 @@
     > The name is believed to have originated from "Kabō," a character who became famous in Edo period sideshows.
 - 「蓖棒」と書くのは当て字。
     > Writing it as "蓖棒" is a phonetic substitution using unrelated characters.
+
+# 12, 13, 14 [おすそ分け](<./2026 JANUARY 12-14.pdf>)
+
+### おすそわけ
+
+> sharing with others what has been given to you; sharing a portion of the profit with others​
+
+- もらった物をさらに他人に分け与えること。
+    > The act of sharing something you received with others.
+- 「おすそ分け」の「すそ」は、着物のすそのこと。
+    > The word "suso" in "osusowake" (sharing something with others) refers to the hem of a kimono.
+- すそは最も地面に近い衣服の下端の部分で、つまらない物という意味が含まれる。
+    > The hem is the lowest part of a garment, closest to the ground, and the term also carries the connotation of something insignificant or trivial.
+- したがって、「社長におすそ分け」というように目上の人使うのは適切とはいえない。
+    > Therefore, using the phrase "sharing with the president" to refer to someone of higher rank is not considered appropriate.
