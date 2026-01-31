@@ -91,3 +91,108 @@
     > The hem is the lowest part of a garment, closest to the ground, and the term also carries the connotation of something insignificant or trivial.
 - したがって、「社長におすそ分け」というように目上の人使うのは適切とはいえない。
     > Therefore, using the phrase "sharing with the president" to refer to someone of higher rank is not considered appropriate.
+
+# 15, 16 [手綱](<./2026 JANUARY 15-16.pdf>)
+
+### たづな
+
+> reins; bridle​  
+> control; the reins (on)​
+
+- 人や状況などをコントロールするための枠組み。
+    > A framework for controlling people and situations.
+- 「手綱を締める」「手綱を緩める」などと使う。
+    > Used as "tighten the reins" or "loosen the reins."
+- 「手綱」は、鬱に結びつけて馬を操るための綱。
+    > A "bridle" is a rope tied to a horse to control it.
+- 手綱を締めれば馬はゆっくり進み、逆に緩めれば速く進む。
+    > If you tighten the reins, the horse will go slower; if you loosen the reins, the horse will go faster.
+- 馬を制御するようすを、人間の世界にあてはめたこと。
+    > Applying the process of controlling horses to the human world.
+
+# 17, 18 [水を向ける](<./2026 JANUARY 17-18.pdf>)
+
+### みずをむける
+
+> to try and draw someone out; to fish for information​  
+> (for a shrine maiden) to present water to spirits while invoking them​  
+> to offer water before a grave​
+
+- こちらが聞きたい事柄を相手が話すように球みに誘いをかけるたとえ。
+    > A parable that cleverly invites the other person to say what you want to hear.
+- 巫女が死者の霊魂を呼び寄せ、そのことばを人に伝える口寄せをするときに、水を手向けることから。
+    > This is because the shrine maiden uses water to summon the spirits of the dead and convey their words to others.
+
+# 19, 20, 21 [摂氏](<./2026 JANUARY 19-21.pdf>)
+
+### せっし
+
+> Celsius; centigrade​
+
+- 温度目盛りの一つ。
+    > One of the temperature scales.
+- 氷点を〇度、沸点を一00度とする。
+    > The freezing point is 0 degrees and the boiling point is 100 degrees.
+- 考案者のスウェーデン人セルシウスの名を中国に音写した「摂爾思」。
+    > "Setsuershi" is the Chinese transcription of the name of its inventor, the Swedish astronomer Anders Celsius.
+
+# 22, 23 [間尺に合わない](<./2026 JANUARY 22-23.pdf>)
+
+### ましゃくにあわない
+
+> does not pay; not worth (one's) while​
+
+- 割に合わなくて損になるようす。
+    > It seems like a loss, not worth it.
+- 引き合わないようす。
+    > It's not profitable.
+- 「工賃が安くて、間尺に合わない仕事」 などと使う。
+    > It is used in expressions such as "a poorly-paid job that isn't worth the time".
+- 「間尺」は、 尺貫法の間と尺。
+    > "Kenjyaku" is an allusion to the traditional Japanese system of weights and measures​.
+- 転じて、計算・寸法の 意 。
+    > In other words, it means calculation/dimensions.
+
+# 24, 25 [箔が付く](<./2026 JANUARY 24-25.pdf>)
+
+### はくがつく
+
+> to increase in value; to gain prestige​
+
+- 世間の評判が高くなる。
+    > Increased public reputation.
+- 値打ちが上がる。
+    > The value goes up.
+- 「箔」は、金箔や銀箔など、金属をたたいて薄くのばしたもの。
+    > "Haku" is made by pounding metal such as gold leaf or silver leaf to make it thin.
+- これが非常に高値であったことから、「箔が付く」で値打ちが上がるという意になった。
+    > Therefore, anything "attached with foil" came to mean it has a very high price.
+
+# 26, 27, 28 [抜け駆け](<./2026 JANUARY 26-28.pdf>)
+
+### ぬけがけ
+
+> stealing a march on; getting a head start; secretly acting before others​  
+> solo raid on an enemy's camp (for glory)​
+
+- 他人を出し抜き、自分だけ先に事を行うこと。 
+    > To outdo others and do things first.
+- 「抜け駆けの功名」 などと使う。
+    > It is used in phrases such as "an outstanding achievement or exploit".
+- 武士が戦で手柄を立てるため、こっそり陣を抜け出して誰よりも早く 敵陣へ攻め込むことを「抜け駆け」といったことから。
+    > This term refers to a samurai secretly sneaking out of his camp, and attacking the enemy's position before anyone else, in order to gain merit in battle.
+
+# 29, 30 [歌舞伎](<./2026 JANUARY 29-30.pdf>)
+
+### かぶき
+
+> kabuki; traditional form of drama and music performed by male actors wearing makeup mainly in white and red
+
+- 江戸時代に完成した、日本の代表的演劇。
+    > A representative Japanese play that was completed during the Edo period.
+- 異様な言動や服装をするという意の「傾く」から。
+    > This is because "kabuku (slant)" means to act or dress in a strange way.
+- 江戸時代初期、出雲の阿国が「かぶき都」 の精神を取り入れてはじめたのが「かぶき踊り 」 。
+    > In the early Edo period, Okuni in Izumo began the "kabuki odori (dance)" by incorporating the spirit of "kabuki miyako (everything)".
+- それを略して「かぶき」となった。
+    > It was abbreviated to "kabuki".
