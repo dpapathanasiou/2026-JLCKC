@@ -201,7 +201,7 @@
 
 ### だしん
 
-> percussion; tapping; examining by percussion [​Medicine]
+> percussion; tapping; examining by percussion [​Medicine]  
 > sounding out (someone's intentions); making an approach (about)​
 
 - それとなく話をもちかけ、相手の意向を探ること。
