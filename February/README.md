@@ -39,3 +39,17 @@
     > "Tama" means the workings of the mind, and "geru" means to disappear.
 - 「気を失う」ほど驚く意から。
     > It means to be so surprised that you "lose your mind."
+
+# 7, 8 [肝煎り](<./2026 FEBRUARY 7-8.pdf>)
+
+### きもいり
+
+> good offices; auspices; sponsorship; help; assistance  
+> village official (during the Edo period)​
+
+- 間に入って世話をすること。
+    > To act as an intermediary and provide assistance.
+- 「胱を煎る」は、心をいら立てる、心を悩ます意。
+    > "To roast the bladder" means to irritate or trouble the mind.
+- 転じて、あれこれ気をつかって骨を折る意になった。
+    > By extension, it came to mean taking great care and going to a lot of trouble.
