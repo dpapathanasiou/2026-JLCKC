@@ -65,7 +65,7 @@
     > The prime of life is over. 
 - 時期が過ぎる。
     > The time has passed.
-- 「薹 」は、蕗などの花茎のこと。
+- 「薹」は、蕗などの花茎のこと。
     > "Seed pod" refers to the flower stalk of butterbur and other plants.
 - 「薹 が立つ」は、その花茎が伸びることをいう。
     > "Flower stalk grows" refers to the stalk of the plant growing.
