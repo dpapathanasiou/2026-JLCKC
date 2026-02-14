@@ -53,3 +53,38 @@
     > "To roast the bladder" means to irritate or trouble the mind.
 - 転じて、あれこれ気をつかって骨を折る意になった。
     > By extension, it came to mean taking great care and going to a lot of trouble.
+
+# 9, 10, 11 [薹が立つ](<./2026 FEBRUARY 9-11.pdf>)
+
+### とうがたつ
+
+> to go to seed; to become hard and fibrous​  
+> to have passed one's prime; to have lost the first bloom of one's youth​
+
+- 盛りが過ぎる。
+    > The prime of life is over. 
+- 時期が過ぎる。
+    > The time has passed.
+- 「薹 」は、蕗などの花茎のこと。
+    > "Seed pod" refers to the flower stalk of butterbur and other plants.
+- 「薹 が立つ」は、その花茎が伸びることをいう。
+    > "Flower stalk grows" refers to the stalk of the plant growing.
+- 花茎が伸び過ぎると固くなって食べられなくなることから、盛りの時期が過ぎる意になった。
+    > When the stalks grow too long, they become hard and inedible, so the phrase came to mean that the peak season has passed.
+
+# 12, 13 [陣笠](<./2026 FEBRUARY 12-13.pdf>)
+
+### じんがさ
+
+> ancient soldier's hat​  
+> common soldier​  
+> rank and file (of a political party)​  
+
+- 幹部の意見に従うだけの下っ端。
+    > A low-level employee who simply follows the opinions of his superiors.
+- また、政党などで、役についていない平の議員。
+    > Also, there are ordinary members of parliament who do not hold any important positions in political parties, etc.
+- 足軽や雑兵は、陣中で兜の代わりに薄い鉄や革に漆を塗った「 陣笠」をかぶったことから、下級の兵士のことを「陣笠 （ 運 ）」と呼んた。
+    > While in camp, foot soldiers wore "jinkasa" instead of helmets, which were made of thin iron or leather and coated with lacquer, and so those lower-ranking soldiers came to be called "jinkasa".
+- 転じて、地位の低い者を侮っていうことばになった。 
+    > By extension, it has come to be used as an insult to someone of lower status.
