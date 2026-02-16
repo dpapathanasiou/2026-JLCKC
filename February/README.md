@@ -84,7 +84,20 @@
     > A low-level employee who simply follows the opinions of his superiors.
 - また、政党などで、役についていない平の議員。
     > Also, there are ordinary members of parliament who do not hold any important positions in political parties, etc.
-- 足軽や雑兵は、陣中で兜の代わりに薄い鉄や革に漆を塗った「 陣笠」をかぶったことから、下級の兵士のことを「陣笠 （ 運 ）」と呼んた。
+- 足軽や雑兵は、陣中で兜の代わりに薄い鉄や革に漆を塗った「 陣笠」をかぶったことから、下級の兵士のことを「陣笠（運）」と呼んた。
     > While in camp, foot soldiers wore "jinkasa" instead of helmets, which were made of thin iron or leather and coated with lacquer, and so those lower-ranking soldiers came to be called "jinkasa".
 - 転じて、地位の低い者を侮っていうことばになった。 
     > By extension, it has come to be used as an insult to someone of lower status.
+
+# 14, 15 [遠くて近きは男女の仲](<./2026 FEBRUARY 14-15.pdf>)
+
+### とおくてちかきはだんじょのなか
+
+> The relationship between a man and a woman is far and yet close
+
+- 男と女の仲は一見近づきがたいように見えても、意外に結ばれやすいという意。
+    > It means that even though a relationship between a man and a woman may seem difficult at first glance, it is actually quite easy for them to get together.
+- 清少納言は「枕草子」（能因本一七一段）のなかで、「遠くて近きもの」は「極楽、舟の道、男女の仲」と述べている。
+    > In "The Pillow Book" ('noin' edition, chapter 171), Sei Shonagon states that "things that are both far and close" are "paradise, the passage of a boat, and the relationship between a man and a woman."
+- なお、「近くて遠きもの」には親族の仲をあげている。
+    > Furthermore, the relationship between relatives is cited as another example of something that is both close and far away.
