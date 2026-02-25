@@ -146,4 +146,4 @@
 - 仏教では、世俗に生きる者の知恵のことをいった。
     > In Buddhism, it refers to the wisdom of those who live in the secular world.
 - のちに、複合語の「世知賢い」「世知辛い」なども含め、計算高い意で使われるようになり、現在では、「世知辛い世の中」のように、暮らしにくい意で使われることが多い。
-    > Later, it came to be used to mean calculating, including the compound words "wise of the ways of the world" and "made tough by the world," and now it is often used to mean a difficult place to live in, as in "it's a cruel world."
+    > Later, it came to be used to mean calculating, as in the compound phrases "wise in the ways of the world," and "made tough by the world," and now it is often used to mean a difficult place to live in, as in "it's a cruel world."
