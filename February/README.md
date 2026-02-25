@@ -133,3 +133,17 @@
     > The word originally comes from the Japanese music term "kakeribari."
 - 音の抑揚などを表すものだが、それが一般化し、物事の調子の意になった。
     > It originally expressed the intonation of a sound, but it became more generalized and came to mean the tone of something.
+
+# 21, 22 [世知](<./2026 FEBRUARY 21-22.pdf>)
+
+### せち
+
+> worldly wisdom; gumption  
+> stingy person
+
+- 世渡りの才能。
+    > A talent for getting by in the world.
+- 仏教では、世俗に生きる者の知恵のことをいった。
+    > In Buddhism, it refers to the wisdom of those who live in the secular world.
+- のちに、複合語の「世知賢い」「世知辛い」なども含め、計算高い意で使われるようになり、現在では、「世知辛い世の中」のように、暮らしにくい意で使われることが多い。
+    > Later, it came to be used to mean calculating, including the compound words "wise of the ways of the world" and "made tough by the world," and now it is often used to mean a difficult place to live in, as in "it's a cruel world."
