@@ -147,3 +147,33 @@
     > In Buddhism, it refers to the wisdom of those who live in the secular world.
 - のちに、複合語の「世知賢い」「世知辛い」なども含め、計算高い意で使われるようになり、現在では、「世知辛い世の中」のように、暮らしにくい意で使われることが多い。
     > Later, it came to be used to mean calculating, as in the compound phrases "wise in the ways of the world," and "made tough by the world," and now it is often used to mean a difficult place to live in, as in "it's a cruel world."
+
+# 23, 24, 25 [帝](<./2026 FEBRUARY 23-25.pdf>)
+
+### みかど
+
+> Emperor of Japan
+
+- 大皇の尊称。
+    > An honorific title for the Emperor.
+- また、その位。
+    > Additionally, it refers to the throne or crown.
+- もとは「御門」と書き、門をいう尊敬語。
+    > Originally written as "gomon," it is a respectful term for a gate.
+- とくに皇居の門を指したことから、天皇の居所をいうようになり、さらに天皇の尊称となった。
+    > Since it specifically referred to the gates of the Imperial Palace, it came to refer to the Emperor's residence and then became an honorific title for the Emperor.
+
+# 26, 27 [領袖](<./2026 FEBRUARY 26-27.pdf>)
+
+### りょうしゅう
+
+> leader; chief; boss​
+
+- 集団の頭として人を率い、手本となる人。
+    > A person who leads others as the head of a group and sets an example.
+- 「派閥の領袖」などと使う。
+    > It is used in expressions such as "faction leader."
+- 「領」は、衣服の襟。
+    > "Ryo" means the collar on a piece of clothing.
+- 「襟」と「袖」は、衣服の目立つ部分であることから、集団における頭という意が生じたとされる。
+    > It is said that the meaning of "head of a group" arose from the fact that "collar" and "sleeve" are conspicuous parts of clothing.
