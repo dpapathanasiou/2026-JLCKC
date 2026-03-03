@@ -177,3 +177,19 @@
     > "Ryo" means the collar on a piece of clothing.
 - 「襟」と「袖」は、衣服の目立つ部分であることから、集団における頭という意が生じたとされる。
     > It is said that the meaning of "head of a group" arose from the fact that "collar" and "sleeve" are conspicuous parts of clothing.
+
+# 28, [March](./../March/README.md) 1 [矢庭に](<./../March/2026 FEBRUARY 28 - 2026 MARCH 1.pdf>)
+
+### やにわ
+
+> immediately; instantly; right away​  
+> suddenly; abruptly; all of a sudden  
+
+- すぐに。
+    > Immediately.
+- いきなり。
+    > Suddenly.
+- 「矢庭」は、矢の飛び交う場のこと。
+    > "Yaniwa" refers to a place where arrows fly around.
+- いま矢を射ている、その場所ということから「その場で」の意だけが残り、そこから「即座に」の意が生じたといわれる。
+    > Since it refers to the place where the arrow is being shot, only the meaning "at the spot" remains, and from there the meaning "immediately" arose as well.
