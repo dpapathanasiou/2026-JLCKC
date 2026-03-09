@@ -45,3 +45,19 @@
     > Since the Iroha is taught to beginners learning calligraphy, it has come to mean more generally the beginning, or the beginning of learning.
 - 「伊呂波」「以呂波」とも書く。
     > It can also be written as either "伊呂波" or "以呂波".
+
+# 7, 8 [独り相撲](<./2026 MARCH 7-8.pdf>)
+
+### ひとりずもう
+
+> tilting at windmills​  
+> mimicking a wrestling match by oneself (as a form of street performance, etc.)​
+
+- 誰も相手にしていないのに、ひとりで意気込むこと。
+    > To be enthusiastic about something even though no one is paying attention to you.
+- 「一人相撲」とも書く。
+    > It can also be written as "一人相撲".
+- 昔、神社などで行われていた儀式に由来する。
+    > It originates from a ritual that was held at shrines in the past.
+- 精霊を相手に相撲を取るようすが、誰もいないのにひとりだけで相撲を取っているように見えることから。
+    > The act of wrestling against a spirit looks like it is being done alone, even though no one else is there.
