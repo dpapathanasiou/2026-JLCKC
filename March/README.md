@@ -72,7 +72,7 @@
     > A complete set of tools required to perform a specific task.
 - 武士が戦場で身に着けた「七つの大切な武具」から。
     > Derived from the "Seven Essential Pieces of Military Gear" worn by samurai on the battlefield.
-- 一般に、鎧が・刀・太刀・矢・弓・母衣・兜の七種をいう。 
+- 一般に、鎧・刀・太刀・矢・弓・母衣・兜の七種をいう。 
     > Generally, these are understood to comprise seven specific items: armor, sword, long sword, bow and arrows, a cape, and a helmet.
 
 
