@@ -61,3 +61,31 @@
     > It originates from a ritual that was held at shrines in the past.
 - 精霊を相手に相撲を取るようすが、誰もいないのにひとりだけで相撲を取っているように見えることから。
     > The act of wrestling against a spirit looks like it is being done alone, even though no one else is there.
+
+# 9, 10, 11 [七つ道具](<./20260 MARCH 9-11.pdf>)
+
+### ななつどうぐ
+
+> an outfit; paraphernalia
+
+- ある仕事をするのに必要な、ひとそろいの道具。
+    > A complete set of tools required to perform a specific task.
+- 武士が戦場で身に着けた「七つの大切な武具」から。
+    > Derived from the "Seven Essential Pieces of Military Gear" worn by samurai on the battlefield.
+- 一般に、鎧が・刀・太刀・矢・弓・母衣・兜の七種をいう。 
+    > Generally, these are understood to comprise seven specific items: armor, sword, long sword, bow and arrows, a cape, and a helmet.
+
+
+# 12, 13 [権化](<./2026 MARCH 12-13.pdf>)
+
+### ごんげ
+
+> incarnation (of Buddha or bodhisattva); avatar​  
+> embodiment (as in "embodiment of evil"); incarnation; personification​
+
+- 特質などを具体的に表しているものや人。
+    > A person or entity that concretely embodies specific characteristics or qualities.
+- 「悪の権化」などと使う。
+    > It is used in expressions such as "the very embodiment of evil."
+- 衆生を救うために、仏や菩薩が仮の姿で地上に現すこと。また、その姿。
+    >  It also refers to the act of a Buddha or Bodhisattva manifesting on earth in a provisional form for the purpose of saving sentient beings, as well as to that specific form itself.
