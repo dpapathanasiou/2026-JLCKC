@@ -62,7 +62,7 @@
 - 精霊を相手に相撲を取るようすが、誰もいないのにひとりだけで相撲を取っているように見えることから。
     > The act of wrestling against a spirit looks like it is being done alone, even though no one else is there.
 
-# 9, 10, 11 [七つ道具](<./20260 MARCH 9-11.pdf>)
+# 9, 10, 11 [七つ道具](<./2026 MARCH 9-11.pdf>)
 
 ### ななつどうぐ
 
