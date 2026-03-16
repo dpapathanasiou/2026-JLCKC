@@ -88,4 +88,19 @@
 - 「悪の権化」などと使う。
     > It is used in expressions such as "the very embodiment of evil."
 - 衆生を救うために、仏や菩薩が仮の姿で地上に現すこと。また、その姿。
-    >  It also refers to the act of a Buddha or Bodhisattva manifesting on earth in a provisional form for the purpose of saving sentient beings, as well as to that specific form itself.
+    > It also refers to the act of a Buddha or Bodhisattva manifesting on earth in a provisional form for the purpose of saving sentient beings, as well as to that specific form itself.
+
+# 14, 15 [律儀](<./2026 MARCH 14-15.pdf>)
+
+### りちぎ
+
+> upright; honest; faithful; conscientious; sincere​
+
+- 義理がたいこと。実直なこと。
+    > Being righteous. Being honest.
+- 仏教では「りつぎ」と読み、悪を抑制するはたらきのあるものを指す。
+    > In Buddhism, it is pronounced "ritsugi" and refers to something that has the ability to suppress evil.
+- また、悪を防いで善を行うように導く戒律の意。
+    > It also means a Buddhist precept that prevents evil, and guides one to do good instead.
+- 転じて、義理を固く守る意になった。
+    > By extension, it means a determination to adhere strictly to obligations and duties.
