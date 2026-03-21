@@ -104,3 +104,36 @@
     > It also means a Buddhist precept that prevents evil, and guides one to do good instead.
 - 転じて、義理を固く守る意になった。
     > By extension, it means a determination to adhere strictly to obligations and duties.
+
+# 16, 17, 18 [手を拱く](<./2026 MARCH 16-18.pdf>)
+
+### てをこまねく
+
+> to fold one's arms​  
+> to stand and watch (without interfering); to stand idly by; to look on with folded arms​  
+> to lie in wait; to be ready and waiting
+
+- 何もしないで傍観していること。また、何もできず思案にくれること。
+    > To stand idly by and watch; or, to be unable to do anything and be left at a loss for what to do.
+- 「拱く」は、両手を胸の組み合わせて敬礼すること。
+    > "Komane-ku" refers to the act of offering a salute by clasping both hands together at the chest.
+- 転じて、腕を組 んで何もしないという意になった。
+    > By extension, the term came to signify folding one's arms and doing nothing.
+- 「拱く」は、「こまねく」は、とも読む。
+    >  The kanji "拱く" can also be read as "komane-ku."
+
+# 19, 20 [破天荒](<./2026 MARCH 19-20.pdf>)
+
+### はてんこう
+
+> unheard-of; unprecedented​  
+> daring; wild; uninhibited; unconventional; reckless​
+
+- 今まで誰もなし得なかったようなことをすること。
+    > To accomplish something that no one has ever achieved before.
+- 前代未聞のこと。
+    > Something unprecedented.
+- 中国唐の味代、荊州からは官吏登用試験の合格者が出ず、「天荒（文明未開の荒れ地）」と呼ばれた。
+    > During the Tang Dynasty in China, the region of Jingzhou failed to produce a single successful candidate in the civil service examinations; consequently, it came to be known as *Tianhuang* - literally, a "barren wilderness" devoid of civilization.
+- 初めて合格者が出たとき、「天荒を破る 」者と呼んだという故事から。
+    > The term derives from a historical anecdote: when the region finally yielded its first successful candidate, he was hailed as the one who had "broken the *Tianhuang*."
