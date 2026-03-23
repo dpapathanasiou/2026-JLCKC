@@ -137,3 +137,19 @@
     > During the Tang Dynasty in China, the region of Jingzhou failed to produce a single successful candidate in the civil service examinations; consequently, it came to be known as *Tianhuang* - literally, a "barren wilderness" devoid of civilization.
 - 初めて合格者が出たとき、「天荒を破る 」者と呼んだという故事から。
     > The term derives from a historical anecdote: when the region finally yielded its first successful candidate, he was hailed as the one who had "broken the *Tianhuang*."
+
+# 21, 22 [脇が甘い](<./2026 MARCH 21-22.pdf>)
+
+### わきがあまい
+
+> having weak defenses; off one's guard; vulnerable to attack  
+> poor at preventing one's opponent from getting an underarm grip​ (sumo)
+
+- 守備の態勢が整っていないために、相手につけ込まれやすいさま。
+    > A state of vulnerability to exploitation by an opponent due to an incomplete defensive posture.
+- 相撲で、四つに組むとき、自分の脇 をしっかりとしめつけておかない状態のことから出た語。
+    > This term originated in sumo wrestling, specifically referring to the condition of failing to keep one's armpits tightly closed when engaging in a four-point *yotsu* grappling hold.
+- 脇があいてしまうと腕を差し込まれやすく、相手に 有利な組み手となる。
+    > If the armpits are left open, it becomes easy for the opponent to slip their arms inside, a maneuver that creates a grip advantageous for them.
+- そこから転じて、一般に防御が万全でない意になった。
+    > By extension, the term has come to signify, in a general sense, a situation where one's defenses are not fully secure.
