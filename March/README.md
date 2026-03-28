@@ -153,3 +153,27 @@
     > If the armpits are left open, it becomes easy for the opponent to slip their arms inside, a maneuver that creates a grip advantageous for them.
 - そこから転じて、一般に防御が万全でない意になった。
     > By extension, the term has come to signify, in a general sense, a situation where one's defenses are not fully secure.
+
+# 23. 24, 25 [さようなら](<./2026 MARCH 23-25.pdf>)
+
+> farewell; adieu; goodbye; so long​  
+
+- 人と別れるときのことば。
+    > Word used when parting ways with someone.
+- 「然様ならば（そういうことならば）、ごきげんよう」「然様ならば、のちほど」など、「さようならば、・・」の下を略したもの。
+    >  Examples include "sayo naraba" (if that is the case), "gookigen'yō" (farewell) and "sayo naraba, nochi hodo" (see you later); these are abbreviated forms in which the phrase following "sayo naraba..." has been omitted.
+- 「然様」は、「左様」とも書く。
+    > The term *sayo* (然様) may also be written using these kanji characters: 左様.
+
+# 26, 27 [怪訝](<./2026 MARCH 26-27.pdf>)
+
+### けげん
+
+> puzzled; perplexed; quizzical; dubious; suspicious​  
+
+- 不思議で納得のいかないこと。わけがわからず、いぶかるようす。
+    > A phenomenon that is both mysterious and perplexing.
+- 「怪訝な顔」などと使う。
+    > Something that defies understanding and evokes a sense of bewilderment.
+- 仏や菩薩が衆生を救うために姿を変えてこの世に現れることを「化現」といい、それが不思議であることから、不思議なことを「怪訝」というようになったとする説がある。
+    >  The term is typically used in expressions such as "wearing a puzzled look": one theory suggests that the word originated from the concept of *kegen*, the miraculous manifestation of Buddhas and Bodhisattvas in this world, in altered forms, for the purpose of saving sentient beings; because such manifestations were regarded as wondrous events, the term *kegen* eventually came to be applied to any mysterious or inexplicable occurrence.
