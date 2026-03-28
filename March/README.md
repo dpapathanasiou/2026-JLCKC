@@ -171,9 +171,11 @@
 
 > puzzled; perplexed; quizzical; dubious; suspicious​  
 
-- 不思議で納得のいかないこと。わけがわからず、いぶかるようす。
+- 不思議で納得のいかないこと。
     > A phenomenon that is both mysterious and perplexing.
+- わけがわからず、いぶかるようす。
+   > Something that defies understanding and evokes a sense of bewilderment.
 - 「怪訝な顔」などと使う。
-    > Something that defies understanding and evokes a sense of bewilderment.
+     > The term is typically used in expressions such as "wearing a puzzled look".
 - 仏や菩薩が衆生を救うために姿を変えてこの世に現れることを「化現」といい、それが不思議であることから、不思議なことを「怪訝」というようになったとする説がある。
-    >  The term is typically used in expressions such as "wearing a puzzled look": one theory suggests that the word originated from the concept of *kegen*, the miraculous manifestation of Buddhas and Bodhisattvas in this world, in altered forms, for the purpose of saving sentient beings; because such manifestations were regarded as wondrous events, the term *kegen* eventually came to be applied to any mysterious or inexplicable occurrence.
+    > One theory suggests that the word originated from the concept of *kegen*, the miraculous manifestation of Buddhas and Bodhisattvas in this world, in altered forms, for the purpose of saving sentient beings; because such manifestations were regarded as wondrous events, the term *kegen* eventually came to be applied to any mysterious or inexplicable occurrence.
