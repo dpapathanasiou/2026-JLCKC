@@ -179,3 +179,16 @@
      > The term is typically used in expressions such as "wearing a puzzled look".
 - 仏や菩薩が衆生を救うために姿を変えてこの世に現れることを「化現」といい、それが不思議であることから、不思議なことを「怪訝」というようになったとする説がある。
     > One theory suggests that the word originated from the concept of *kegen*, the miraculous manifestation of Buddhas and Bodhisattvas in this world, in altered forms, for the purpose of saving sentient beings; because such manifestations were regarded as wondrous events, the term *kegen* eventually came to be applied to any mysterious or inexplicable occurrence.
+
+# 28, 29 [芸術は長く、人生は短し](<./2026 MARCH 28-29.pdf>)
+
+### げいじゅつはながく、じんせいはみじかし
+
+> Art is long, life is short
+
+- 芸術家の命は短くとも、優れた芸術品は永遠に残る。
+    > An artist's life may be short, but great works of art will last forever.
+- 吉代ギリシャの医師ヒポクラテスが、医術について言ったことば "Ars longa, vita brevis" から。
+    > Based on the expression "Ars longa, vita brevis", which the ancient Greek physician Hippocrates said about medicine.
+- もとは、医術を修得するには長い時間が必要で、そのためには人生は短すぎるという意であった。
+    > Originally, it meant that it takes a long time to master medical skills, and that life is too short for that.
