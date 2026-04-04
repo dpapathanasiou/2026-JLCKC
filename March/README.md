@@ -192,3 +192,20 @@
     > Based on the expression "Ars longa, vita brevis", which the ancient Greek physician Hippocrates said about medicine.
 - もとは、医術を修得するには長い時間が必要で、そのためには人生は短すぎるという意であった。
     > Originally, it meant that it takes a long time to master medical skills, and that life is too short for that.
+
+# 30, 31, [April](<../April/README.md>) 1 [虚仮](<../April/20260 MARCH 30-31 APRIL 1.pdf>)
+
+### こけ
+
+> folly; fool​
+
+- うそ。おろかなこと。
+    > A lie; an act of folly.
+- 「虚仮にする」は、馬鹿にすること。
+    > The expression *"koke ni suru"* means to make a fool of someone. 
+- 「虚仮おどし」は、見え透いたおどしのこと。
+    > *"Koke-odoshi"* refers to a transparent, hollow threat.
+- 「虚仮」は、仏教では心中と外見が異なること。
+    > In Buddhism, *"koke"* signifies a discrepancy between one's inner state and one's outward appearance.
+- 転じて、真実でないことをいう。
+    > By extension, the term has come to denote anything that is not genuine or true.
