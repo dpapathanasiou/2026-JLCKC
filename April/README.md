@@ -28,3 +28,20 @@
     > Originally, the term referred, quite literally, to clothing bestowed upon retainers or employees by their superiors, such as government officials or the masters of merchant households.
 - つまり、官給品やユニフォームのこと。
     > In essence, it denotes officially issued items or uniforms.
+
+# 4, 5 [段取り](<./2026 APRIL 4-5.pdf>)
+
+### だんどり
+
+> programme; program; plans; arrangements​
+
+- 物事を進める手順、手はず。
+   > This term refers to the procedure or arrangements for carrying out a task.
+- 「仕事の段取りが悪い」などと使う。
+   > It is commonly used in expressions such as, "*The planning for this work is poor.*"
+- もとは歌舞伎のことばで、筋の運びのことをいった。
+   > Originally, however, it was a Kabuki theater term, referring to the plot progression.
+- 「段」は、物語 の構成単位で、何段かの話があってごつの物語となり、「寺子屋の 段」などと使われる。
+   > In this context, a "*dan*" (step or act) serves as a structural unit of the narrative; a complete story is formed by combining several such *dan* together.
+- 段取りが悪くては芝居は面白なく、仕事もうまくいくはずがないということから現在の意が生まれた。
+   > The current meaning emerged from the realization that just as a play becomes uninteresting without proper staging and pacing, work cannot possibly succeed without effective planning and preparation.
