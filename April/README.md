@@ -41,7 +41,7 @@
    > It is commonly used in expressions such as, "*The planning for this work is poor.*"
 - もとは歌舞伎のことばで、筋の運びのことをいった。
    > Originally, however, it was a Kabuki theater term, referring to the plot progression.
-- 「段」は、物語 の構成単位で、何段かの話があってごつの物語となり、「寺子屋の 段」などと使われる。
+- 「段」は、物語の構成単位で、何段かの話があってごつの物語となり、「寺子屋の段」などと使われる。
    > In this context, a "*dan*" (step or act) serves as a structural unit of the narrative; a complete story is formed by combining several such *dan* together.
 - 段取りが悪くては芝居は面白なく、仕事もうまくいくはずがないということから現在の意が生まれた。
    > The current meaning emerged from the realization that just as a play becomes uninteresting without proper staging and pacing, work cannot possibly succeed without effective planning and preparation.
