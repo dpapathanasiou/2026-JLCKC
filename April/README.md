@@ -45,3 +45,35 @@
    > In this context, a "*dan*" (step or act) serves as a structural unit of the narrative; a complete story is formed by combining several such *dan* together.
 - 段取りが悪くては芝居は面白なく、仕事もうまくいくはずがないということから現在の意が生まれた。
    > The current meaning emerged from the realization that just as a play becomes uninteresting without proper staging and pacing, work cannot possibly succeed without effective planning and preparation.
+
+# 6, 7, 8 [出世](<./2026 APRIL 6-8.pdf>)
+
+### しゅっせ
+
+> success in life; getting ahead; successful career; promotion; climbing the corporate ladder; eminence​
+
+- 高い地位につくこと。
+    > To attain a high position.
+- 世間で名が知られるようになること。
+    > To become renowned in society.
+- 本来、衆生を救うため、仏が仮の姿でこの世に現れる意。
+    > Originally, the term signified a Buddha manifesting in this world in a provisional form for the purpose of saving sentient beings.
+- また、「出世間」の意で、世を捨てて仏道に入ることを意味した。
+    > It also carried the meaning of renouncing the secular world to enter the Buddhist path. 
+- 公卿のあと押しを得て寺の住職になることも「出世」といい、立身出世の意はここから生じたとされる。
+    > The act of becoming the head priest of a temple with the backing of court nobles was also referred to using this phrase; the modern connotation of rising in the world, and achieving worldly success, originated from this usage.
+
+# 9, 10 [八百長](<./2026 APRIL 9-10.pdf>)
+
+### やおちょう
+
+> match fixing; put-up job; fixed game
+
+- 前もって示し合わせたとおりに、勝負をつけること。
+    > To prearrange the outcome of a contest exactly as agreed upon beforehand.
+- なれあい。
+    > Collusion.
+- 「八百長」は、治初期の人物「八百屋の長兵衛」のこと。
+    > This term refers to a figure from the early Meiji era known as "Yaoya no Chōbei" (Chōbei the Greengrocer).
+- 彼は囲碁の腕前がなかなかのもので、よく相撲の「年奇」の相手をしていたが、商売上の損得を考えて、適当に勝ち負けを調整していたことから。
+    > He was a skilled Go player who frequently served as an opponent for a sumo wrestler known as "Nenki"; however, because he would deliberately manipulate the results, winning or losing in order to profit himself, the term eventually came to signify match-fixing.
