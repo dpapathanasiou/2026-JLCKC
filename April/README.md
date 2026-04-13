@@ -77,3 +77,16 @@
     > This term refers to a figure from the early Meiji era known as "Yaoya no Chōbei" (Chōbei the Greengrocer).
 - 彼は囲碁の腕前がなかなかのもので、よく相撲の「年奇」の相手をしていたが、商売上の損得を考えて、適当に勝ち負けを調整していたことから。
     > He was a skilled Go player who frequently served as an opponent for a sumo wrestler known as "Nenki"; however, because he would deliberately manipulate the results, winning or losing in order to profit himself, the term eventually came to signify match-fixing.
+
+# 11, 12 [おじゃん](<./2026 APRIL 11-12.pdf>)
+
+> to fall through; to come to nothing (colloquial)
+
+- 物事が途中でだめになること。
+    > The act of something falling through midway.
+- 不成功に終わること。
+    > Something that ends in failure.
+- 江戸時代、火災が鎮火したのを知らせるのに半鐘を「ジャン、ジャン」と鳴らした音からといわれる。
+    > The origin of this expression is said to derive from the Edo period, specifically from the fanciful "*jan, jan*" sound a fire bell makes when rung, to signal that a fire had been extinguished.
+- また、物事が途中でだめになるという意の「じゃみる」が転じたという説もある。
+    > There is also a theory, however, that it evolved from the verb "*jamiru*", which carries the meaning of a plan or undertaking going awry before completion.
