@@ -90,3 +90,18 @@
     > The origin of this expression is said to derive from the Edo period, specifically from the fanciful "*jan, jan*" sound a fire bell makes when rung, to signal that a fire had been extinguished.
 - また、物事が途中でだめになるという意の「じゃみる」が転じたという説もある。
     > There is also a theory, however, that it evolved from the verb "*jamiru*", which carries the meaning of a plan or undertaking going awry before completion.
+
+# 13, 14, 15 [ぼる](<./2026 APRIL 13-15.pdf>)
+
+> to ask a high price; to overcharge
+
+- 法外な料金を要求する。
+    > To demand exorbitant fees.
+- 不当な利益をむさぼる。
+    > To reap unjust profits.
+- 「暴利」を動詞化したもの。
+    > This term is a verbalized form of "*bōri*", which means profiteering.
+- 多くは、「ぼられる」と受け身で使われる。
+    > It is most frequently used in the passive voice, "*borareru*", to describe being ripped off.
+- 「ぼったくる」とも。
+    > It is also referred to as "*bottakuru*".
