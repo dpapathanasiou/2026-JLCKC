@@ -105,3 +105,22 @@
     > It is most frequently used in the passive voice, "*borareru*", to describe being ripped off.
 - 「ぼったくる」とも。
     > It is also referred to as "*bottakuru*".
+
+# 16, 17 [剣幕](<./2026 APRIL 16-17.pdf>)
+
+### けんまく
+
+> threatening attitude; menacing look; angry look
+
+- 怒ったときの荒々しく、熱しい表情や態度。
+    > This term refers to the fierce, heated facial expressions and demeanor displayed when one is angry.
+- 「ものすごい剣幕で怒鳴りこむ」などと使う。
+    >  It is typically used in phrases such as "*to storm in and shout in a furious rage.*" 
+- 脈を調べて診察する「見脈」から出たことば。
+    > The word originated from "*kenmyaku*", the practice of medically examining a patient by checking their pulse.
+- それが転じて、から見て取れる。 
+    >  Over time, the meaning shifted to denote a general mood that is easily perceived.
+- 気配の意になり、とくに激しい 怒りを感じる場合に用いられるようになったもの。
+    > It subsequently came to be used specifically to describe a palpable sense of intense anger.
+- また、「険悪」から変化したという説もある 。
+    > There is also a theory that the term evolved from the adjective "*kenaku*", which means threatening or menacing.
