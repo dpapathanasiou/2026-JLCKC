@@ -124,3 +124,46 @@
     > It subsequently came to be used specifically to describe a palpable sense of intense anger.
 - また、「険悪」から変化したという説もある 。
     > There is also a theory that the term evolved from the adjective "*kenaku*", which means threatening or menacing.
+
+# 18, 19 [指南](<./2026 APRIL 18-19.pdf>)
+
+### しなん
+
+> instruction (in martial arts, performance, etc.); teaching; coaching
+
+- 教え導くこと。
+    > The act of teaching and guiding.
+- また、その人。
+    > The person who teaches and guides.
+- 「指南車」から出たことば。
+    > The word originates from "*shinan-chē*", which means a south-pointing chariot.
+- 指南車は、中国吉代に用いられた、方向を指し示す歯車装置のある事。
+    > This type of chariot, used in ancient China, had a gear mechanism to indicate direction. 
+- 車上に取りつけられた人形の手が、常に南を指すように作られている。
+    > The hands of the figure mounted on the chariot were designed to point south.
+
+# 20, 21, 22 [馬が合う](<./2026 APRIL 20-22.pdf>)
+
+### うまがあう
+
+> to get on well (with someone); to be a good match with one's horse
+
+- 気が合う。
+    > To get along well with someone.
+- もとは、馬と乗り手の際呼吸がうまく合うこと。
+    > Originally, this referred to the perfect synchronization between a horse and its rider.
+- それを、人と人の気持ちがぴったり合うことにたとえたもの。
+    > It is now used as a metaphor, to mean that two people are perfectly aligned emotionally.
+
+# 23, 24 [埋め草](<./2026 APRIL 23-24.pdf>)
+
+### うめくさ
+
+> page filler​
+
+- 新聞や雑誌などで、紙面の余白を埋める短い記事。
+    > Short articles used to fill the margins of pages in newspapers and magazines.
+- もとは、昔、城攻めの際、堀や溝を「埋める」ために使った草のこと。
+    > Originally, the term referred to the grass used to "fill in" moats and ditches during castle sieges.
+- それが転じて、空間を埋めるもの、さらには余白を埋める短文の意になった。
+    > This meaning evolved to mean something that takes up space, such as a short piece of writing that fills in the margins.
