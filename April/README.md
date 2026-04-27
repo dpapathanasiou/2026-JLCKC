@@ -167,3 +167,22 @@
     > Originally, the term referred to the grass used to "fill in" moats and ditches during castle sieges.
 - それが転じて、空間を埋めるもの、さらには余白を埋める短文の意になった。
     > This meaning evolved to mean something that takes up space, such as a short piece of writing that fills in the margins.
+
+# 25, 26 [結構](<./2026 APRIL 25-26.pdf>)
+
+### けっこう
+
+> splendid; nice; wonderful; delightful; lovely; excellent; fine​  
+> sufficient; satisfactory; enough; fine; all right; ok  
+> not needing (any more of something); (already) having enough; fine (as in "I'm fine"); no, thank you  
+> rather; quite; fairly; pretty; surprisingly; quite a bit; fairly well  
+> structure; construction; framework; architecture  
+
+- 申し分ないさま。
+    > Perfectly flawless.
+- 中国では元来、建築物や文章の組み立の意。
+    > In China, it originally meant the composition of buildings or documents.
+- 日本に入り、心の中で組み立てた考えや計画の意に転じ、その準備を整えること、実現することの意が生じた。
+    > In Japan, it described an idea or plan put together in one's mind, and then evolved to mean preparing for the realization of such an idea.
+- 「申し分ない」の意は、計画の準備が万端であることを評価して生した用法か。
+    > The meaning of "perfectly flawless" likely arose from evaluating that preparations for a plan were thorough.
