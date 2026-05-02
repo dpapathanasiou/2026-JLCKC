@@ -186,3 +186,31 @@
     > In Japan, it described an idea or plan put together in one's mind, and then evolved to mean preparing for the realization of such an idea.
 - 「申し分ない」の意は、計画の準備が万端であることを評価して生した用法か。
     > The meaning of "perfectly flawless" likely arose from evaluating that preparations for a plan were thorough.
+
+# 27, 28, 29 [封切り](<./2026 APRIL 27-29.pdf>)
+
+### ふうきり
+
+> premiere; first showing; release (film)​
+
+- 新作映画をはじめて映画館で上映し、一般に見せること。
+    > This term refers to the act of screening a new film in a movie theater for the very first time, thereby presenting it to the general public.
+- 江戸時代の小説本は、袋に入れて売られていた。
+    > During the Edo period, novels were sold enclosed in sealed bags.
+- 読者はこの封を切ってから新作本を読んだことから「封切り」ということばが生まれ、それが転じたもの。
+    > Since readers had to break this seal before they could read a new book, the term "*fūgiri*" (literally, "breaking the seal") was coined, and the same phrase was subsequently adopted to describe the theatrical premiere of a film.
+
+# 30, [May](<../May/README.md>) 1 [未来](<../May/2026 APRIL 30 - MAY 1.pdf>)
+
+### みらい
+
+> (distant) future​  
+> future (tense)  
+> future existence; world beyond the grave; the world to come​
+
+- これから来るとき。将 来。
+    > The time that is yet to come; the future.
+- 仏教では、死後の世界のこと。
+    > In Buddhism, this term refers to the world after death.
+- 「未来」は、未だ来らざる世、つまり次の世だから、前世・現世・来世という三世のうちの来世となる。
+    >  The future signifies the world that has not yet arrived, that is, the next world, which corresponds to the next life within the framework of the "Three Lives": the past life, the present life, and the next life.
