@@ -26,3 +26,33 @@
     > This expression originated from the practice of brewing tea a second time using tea leaves that had already been steeped once.
 - 薬についてもいう。
     > It is also applied to medicinal remedies.
+
+# 4, 5, 6 [薬玉](<./2026 MAY 4-6.pdf>)
+
+### くすだま
+
+> ornamental ball-shaped scent bag​  
+> hanging decorative ball that splits in half to release confetti, streamers, balloons, etc., for celebratory events
+
+- 式典などの飾りに用いる玉。
+    > An ornamental ball used for ceremonies and similar occasions.
+- 古くは、瑞千の節句（五月五日）に、不争や邪気を払う目的で柱・壁などに掛けた玉のこと。
+    > Historically, these balls were hung on pillars, walls, and the like, during the "*suisen no sekku*", the Festival of the Fifth Day of the Fifth Month (now known as Children's Day), with the aim of averting misfortune and warding off evil spirits.
+- 「薬玉」の名は、中に薬用の香をつめたことから。
+    > The name "*kusudama*", literally "medicine ball", derives from the fact that these balls were filled with medicinal incense.
+
+# 7, 8 [高飛車](<./2026 MAY 7-8.pdf>)
+
+### たかびしゃ
+
+> high-handed; domineering  
+> on one's high horse​
+
+- 「高圧的・威圧的であること。
+    > This term refers to being overbearing or intimidating.
+- 「高飛車に出る」「高飛車な言動」などと使う。
+    > It is used in expressions such as "to take a high-handed stance" or "high-handed behavior".
+- 将棋で、自陣の前に飛車を置く戦法を「高飛車」、または「将飛車」ということから。
+    > The usage originates from shogi, where a strategy involving positioning one's rook directly in front of one's own defensive lines is known as "*takabisha*" or "*shōbisha*".
+- 非常に攻撃的な戦法とされ、相手を頭ごなしに押さえつける強引な陣形となる。
+    > Considered a highly aggressive tactic, it creates a forceful formation designed to completely overwhelm and suppress the opponent.
