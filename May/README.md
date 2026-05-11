@@ -56,3 +56,18 @@
     > The usage originates from shogi, where a strategy involving positioning one's rook directly in front of one's own defensive lines is known as "*takabisha*" or "*shōbisha*".
 - 非常に攻撃的な戦法とされ、相手を頭ごなしに押さえつける強引な陣形となる。
     > Considered a highly aggressive tactic, it creates a forceful formation designed to completely overwhelm and suppress the opponent.
+
+# 9, 10 [渡りに船](<./2026 MAY 9-10.pdf>)
+
+### わたりにふね
+
+> godsend; lifesaver; timely offer; windfall​
+
+- 必要なものがちょうど都合よくそろうこと。
+    > Everything you need is conveniently available.
+- 好都合なこと。
+    > A convenient thing.
+- 「子の母を得るは、渡りに船を得るがごとし」という「法華経」の一節から出たことば。
+    > This phrase comes from a passage in the Lotus Sutra that says, "Getting a mother for a child is like getting a boat for crossing".
+- 子にとっての母の存在を、向こう岸へ渡ろうとするときにタイミングよくやってくる船にたとえたもの。
+    > A mother's presence for a child is likened to a boat that arrives at just the right moment, when it is needed to cross to the other side of a river.
