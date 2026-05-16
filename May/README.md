@@ -71,3 +71,30 @@
     > This phrase comes from a passage in the Lotus Sutra that says, "Getting a mother for a child is like getting a boat for crossing".
 - 子にとっての母の存在を、向こう岸へ渡ろうとするときにタイミングよくやってくる船にたとえたもの。
     > A mother's presence for a child is likened to a boat that arrives at just the right moment, when it is needed to cross to the other side of a river.
+
+# 11, 12, 13 [下馬評](<./2026 MAY 11-13.pdf>)
+
+### げばひょう
+
+> rumor; gossip; speculation; irresponsible criticism; hearsay​
+
+- 当事者でない人たちによる評判やうわさ。
+    > Reputation or rumors circulated by those who are not directly involved.
+- 「下馬評に上る」などと使う。
+    > The phrase is typically used in expressions such as "to become the subject of public speculation".
+- 江戸時代、城や寺院に入る際は、下馬先（下馬すべき場所）で馬を不りることになっていた。
+    > During the Edo period, it was customary to dismount one's horse at a designated dismounting point, before entering a castle or temple.
+- そこで主人の帰りを待つ供の者どうしが、うわさ話などを交わしたことから。
+    > The term originated from the fact that the attendants waiting there for their masters' return would often pass the time by exchanging gossip and rumors.
+
+# 14, 15 [油を絞る](<./2026 MAY 14-15.pdf>)
+
+### あぶらをしぼる
+
+> to chew out; to reprimand severely; to rake over the coals; to give a sound scolding; to tell someone off; to scold; to rebuke  
+> (literally) to press oil​
+
+- 人の失敗や欠点を厳しくとがめだてて、とっちめるたとえ。
+    > A metaphor for harshly reproaching and severely chastising someone for their failures or shortcomings.
+- 昔、搾木にかけて、豆などを押しつぶし、ぎゅうぎゅう油を絞り取ったことから。
+    > The imagery derives from the ancient practice of placing beans and the like into a wooden press and squeezing them tightly to extract every last drop of oil.
