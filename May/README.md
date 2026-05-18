@@ -98,3 +98,20 @@
     > A metaphor for harshly reproaching and severely chastising someone for their failures or shortcomings.
 - 昔、搾木にかけて、豆などを押しつぶし、ぎゅうぎゅう油を絞り取ったことから。
     > The imagery derives from the ancient practice of placing beans and the like into a wooden press and squeezing them tightly to extract every last drop of oil.
+
+# 16, 17 [頓珍漢](<./2026 MAY 16-17.pdf>)
+
+### とんちんかん
+
+> absurdity; contradiction; incoherence; irrelevance​
+
+- 言動にどこか抜けたところがあって、ちぐはぐなこと。
+    > This term describes behavior or speech that is somewhat absent-minded, disjointed, or nonsensical.
+- また、そういう人。
+    > It also refers to a person who behaves in such a manner.
+- 鍛冶屋では、師匠と弟子は交互にを打つので、その音は「トンチンカン」とずれて響く。
+    > In a blacksmith's shop, the master and the apprentice strike the metal in turns; the sounds they produce as a consequence (literally "*ton*", "*chin*", "*kan*") ring out in a staggered, out-of-sync rhythm.
+- このそろわない音から出たことば。
+    > The word itself originated from these uncoordinated sounds.
+- 「頓珍漢」は、当て字。
+    > The kanji characters used to write it were chosen for their phonetic value rather than their literal meaning.
