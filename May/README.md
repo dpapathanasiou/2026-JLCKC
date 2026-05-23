@@ -127,7 +127,7 @@
 - 昔、書物を印刷するための板木に梓の木を使ったことから。
     > This expression originates from the historical practice of using wood from the "*azusa*" tree, the Japanese cherry birch, to carve the wood blocks used to print books.
 - 「梓に上す｣ともいう｡
-    >  It is also comes from the phrase "to set to the *azusa*".
+    >  It also comes from the phrase "to set to the *azusa*".
 
 # 20, 21 [根回し](<./2026 MAY 21-22.pdf>)
 
