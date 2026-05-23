@@ -139,4 +139,4 @@
 - 事がうまく運ぶように、事前に関係者に話をつけておくこと。
     > To ensure that things proceed smoothly, one should make prior arrangements with the relevant parties.
 - 樹木の移植を行うために、あらかじめ木の周囲を掘って主根と側根以外の根を切っておくことから出たことば。
-    > This expression originated from the practice of transplanting trees, to dig around it and sever all roots except for the main taproot and primary lateral roots.
+    > This expression originated from the practice of transplanting trees, to dig around them, and sever all roots except for the main taproot and lateral roots.
