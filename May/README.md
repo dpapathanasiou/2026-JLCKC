@@ -115,3 +115,28 @@
     > The word itself originated from these uncoordinated sounds.
 - 「頓珍漢」は、当て字。
     > The kanji characters used to write it were chosen for their phonetic value rather than their literal meaning.
+
+# 18, 19, 20 [上梓](<./2026 MAY 18-20.pdf>)
+
+### じょうし
+
+> publication
+
+- 書物を出版すること｡　
+    > The act of publishing a book.
+- 昔、書物を印刷するための板木に梓の木を使ったことから。
+    > This expression originates from the historical practice of using wood from the "*azusa*" tree, the Japanese cherry birch, to carve the wood blocks used to print books.
+- 「梓に上す｣ともいう｡
+    >  It is also comes from the phrase "to set to the *azusa*".
+
+# 20, 21 [根回し](<./2026 MAY 21-22.pdf>)
+
+### ねまわし
+
+> digging around the roots of a tree (before transplanting)​  
+> laying the groundwork; behind-the-scenes maneuvering; consensus-building process​
+
+- 事がうまく運ぶように、事前に関係者に話をつけておくこと。
+    > To ensure that things proceed smoothly, one should make prior arrangements with the relevant parties.
+- 樹木の移植を行うために、あらかじめ木の周囲を掘って主根と側根以外の根を切っておくことから出たことば。
+    > This expression originated from the practice of transplanting trees, to dig around it and sever all roots except for the main taproot and primary lateral roots.
