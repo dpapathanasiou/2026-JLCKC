@@ -129,7 +129,7 @@
 - 「梓に上す｣ともいう｡
     >  It also comes from the phrase "to set to the *azusa*".
 
-# 20, 21 [根回し](<./2026 MAY 21-22.pdf>)
+# 21, 22 [根回し](<./2026 MAY 21-22.pdf>)
 
 ### ねまわし
 
@@ -140,3 +140,14 @@
     > To ensure that things proceed smoothly, one should make prior arrangements with the relevant parties.
 - 樹木の移植を行うために、あらかじめ木の周囲を掘って主根と側根以外の根を切っておくことから出たことば。
     > This expression originated from the practice of transplanting trees, to dig around them, and sever all roots except for the main taproot and lateral roots.
+
+# 23, 24 [行きがけの駄賃](<./2026 MAY 23-24.pdf>)
+
+### ゆきがけのだちん
+
+> taking the opportunity to do something; doing something incidentally; doing something while (you) are at it; doing something on the way; while I'm at it​
+
+- ある事のついでに、他の事をすること。
+    > The act of attending to a secondary task while already engaged in something else.
+- 荷物を馬に乗せて運ぶ職業である馬子が、問屋へ荷物を受け取りに行くついでに、人の荷物を運んで賃金を得たことから。
+    > This expression originates from the practice of pack horse handlers, whose job involved transporting goods on horseback, who earned wages by carrying other people's loads while they were already on their way to a wholesaler to pick up their own cargo.
