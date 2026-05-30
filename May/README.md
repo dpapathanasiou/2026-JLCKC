@@ -151,3 +151,35 @@
     > The act of attending to a secondary task while already engaged in something else.
 - 荷物を馬に乗せて運ぶ職業である馬子が、問屋へ荷物を受け取りに行くついでに、人の荷物を運んで賃金を得たことから。
     > This expression originates from the practice of pack horse handlers, whose job involved transporting goods on horseback, who earned wages by carrying other people's loads while they were already on their way to a wholesaler to pick up their own cargo.
+
+# 25, 26, 27 [川柳](<./2026 MAY 25-27.pdf>)
+
+###　せんりゅう
+
+> comic haiku; humorous poem​
+
+- 風刺や滑稽を特徴とする、五・七・五の十七字の短詩。
+    > A short poem consisting of seventeen syllables arranged in a 5-7-5 pattern, characterized by satire and humor.
+- 江戸中期の点者（連歌・俳諧などを評価して点をつける人）、柄井川柳の名から。
+    > The name is derived from a judge who evaluated *haiku* and similar poems, during the middle Edo period.
+- 柄井川柳の選句は「川柳点」と呼ばれ、これが略されて川柳となった。
+    > Those selected poems were referred to as "*senryū-ten*", or "*senryū's grades*", a term that was subsequently shortened to just "*senryū*.
+
+# 28, 29 [お釈迦](<./2026 MAY 28-29.pdf>)
+
+### おしゃか
+
+> poorly made article; defective article​
+
+- できそないの品。
+    > A defective item.
+- 役に立たなくなった状態。
+    > A state of having become useless.
+- 「お釈迦になる」などと使う。
+    > The expression "*oshaka ni naru*", meaning "to turn into a Buddha", is used to describe this condition.
+- もとは、鋳物職人の俗語。
+    > Originally, this term was a piece of slang among foundry workers.
+- 地蔵または阿弥陀像を鋳るつもりが、誤って釈迦像を鋳てしまうことという。
+    > It is said to have referred to the mishap of casting a statue of *shakyamuni*, the historical Buddha, instead of intended subject. 
+- それが転じて、不良品の意になったとされる。
+    > Over time, this usage evolved to take on the broader meaning of a "defective product."
