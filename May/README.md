@@ -183,3 +183,20 @@
     > It is said to have referred to the mishap of casting a statue of *shakyamuni*, the historical Buddha, instead of intended subject. 
 - それが転じて、不良品の意になったとされる。
     > Over time, this usage evolved to take on the broader meaning of a "defective product."
+
+# 30, 31 [丁寧](<./2026 MAY 30-31.pdf>)
+
+###  ていねい 
+
+> polite; courteous; civil​
+
+- 礼儀正しく、心のこもっているさま。
+    > A manner that is polite and heartfelt.
+- また、注意深く念入りなさま。
+    > It also describes an attitude that is careful and meticulous.
+- 「叮嚀」とも書く。
+    > It is sometimes written using these characters instead: 叮嚀 
+- 昔、中国の軍隊で警戒や注意を知らせるために使っていた金属製の打楽器のこと。
+    > Historically, the term referred to a metal percussion instrument used by the Chinese military to signal alerts or warnings.
+- それが転じて、礼儀正しい・注意深いという意を持つようになったという。
+    > Over time, this usage evolved to take on the meaning of being polite or careful.
