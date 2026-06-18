@@ -78,3 +78,31 @@
     > The term also refers to an army attacking from the rear flank. 
 - 転じて、物事の裏側や相手の目の行き届かない部分という意になった。
     > By extension, it came to signify the hidden side of things, or areas that escape an opponent's notice.
+
+# 13, 14 [衒う](<./2026 JUNE 13-14.pdf>)
+
+### てらう
+
+> to show off; to parade; to pretend​
+
+- 自分の才能などをひけらかす。
+    > To show off one's talents or abilities.
+- 「奇を衒う」などと使う。
+    > Used in phrases such as "to be flashy," or "to be pretentious."
+- 「照を衒う」の意で、物をはっきり見せるようにすることから。
+    > It originates from the phrase "to be shining brightly," as an indication of something becoming more visible.
+
+# 15, 16, 17 [杓子定規](<./2026 JUNE 15-17.pdf>)
+
+### しゃくしじょうぎ
+
+> strict; hidebound; inflexible; being a stickler for the rules; sticking hard and fast to the rules
+
+- 決まった形式にとらわれて、応用や融通がきかないこと。
+    > Being bound by a fixed format and lacking adaptability or flexibility.
+- 「杓子」は、汁や飯を器によそう道具。
+    > The first part of the expression is "ladle," a tool for serving soup or rice into a bowl.
+- 古くはその柄が曲がっていたことから、「杓子定規」は不適切な基準で物事をはかろうとする意だった。
+    > Because its handle was curved, using a "ladle ruler" was an old expression meaning to measure things with an inappropriate standard.
+- それが転じて、適切であろうとなかろうと、一つの基準で物事をかろうとする意になった。
+    > This phrase has evolved to mean trying to measure things by a single standard, regardless of whether or not it is appropriate.
