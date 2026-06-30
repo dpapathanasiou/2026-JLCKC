@@ -106,3 +106,87 @@
     > Because its handle was curved, using a "ladle ruler" was an old expression meaning to measure things with an inappropriate standard.
 - それが転じて、適切であろうとなかろうと、一つの基準で物事をかろうとする意になった。
     > This phrase has evolved to mean trying to measure things by a single standard, regardless of whether or not it is appropriate.
+
+# 18, 19 [総菜](<./2026 JUNE 18-19.pdf>)
+
+### そうざい
+
+> small dishes served as a part of an ordinary household meal; a side dish
+
+- 日常の食事の副食物。
+    > A side dish accompanying a daily meal.
+- 毎日のおかず。
+    > A regular complement, such as rice, to the main dish of the day.
+- 「惣菜」とも書く。
+    > It is also written as "惣菜".
+- 「菜」は、副食物のこと。
+    > The character "菜" refers to a side dish.
+- その菜の総称という意で、「総菜」となったとされる。
+    > The phrase "*sōzai*" is said to have originated as a generic term for such dishes.
+- 江戸時代、おもに江戸で使われはじめたことば。
+    > It is an expression that was used primarily in Edo, during the Edo period.
+
+# 20, 21 [登竜門](<./2026 JUNE 20-21.pdf>)
+
+### とうりゅうもん
+
+> gateway to success; opening to honors
+
+- 立身出世のための関門。
+    > A gateway to success and career advancement.
+- 厳しい試験のたとえ。
+    > A metaphor for a rigorous examination.
+- 「文壇の登竜門」などと使う。
+    > It is used in phrases such as "*a path to success in the literary world*".
+- 「竜門」は、黄河の上流にある急流の難所。
+    > The term "*ryumon*", or "*Dragon Gate*", refers to a treacherous stretch of rapids in the upper reaches of the Yellow River in China.
+- 鯉がこの急流を登ると、化して竜になるという伝説から出たことば。
+    > It originates from a legend that says the carp which can ascend these rapids transform into dragons.
+
+# 22, 23, 24 [鼓舞](<./2026 JUNE 22-24.pdf>)
+
+### こぶ
+
+> encouragement; inspiration; rousing; stirring up; raising morale
+
+- 励まして奮い立たせること。
+    > To encourage and rouse someone to action.
+- 鼓を鳴らして舞をまう意。
+    >  Originally, it referred to performing a dance to the beat of a hand drum.
+- 転じて、人を励まし勢いづける意。
+    > This evolved to mean encouraging people, boosting their morale.
+- なお、「鼓吹」にも同じ励まし勢いづける意があるが、こちらは鼓を鳴らし、笛を吹くことから。
+    > Note that the term "*koshui*" also means encouragement and raising someone's spirits, though it derives from the playing of drums and flutes.
+
+# 25, 26 [鍔迫り合い](<./2026 JUNE 25-26.pdf>)
+
+### つばぜりあい
+
+> close contest; neck-and-neck game; fierce competition​
+
+- たがいに譲らず、激しく争うこと。
+    > Engaging in a fierce struggle where neither side yields.
+- 「鍔迫り合いを演ずる」などと使う。
+    > Often used in phrases such as being engaged in a "*tsuba-zeriai*", which means a "*sword fight clash*".
+- 「鍔」は、刀の柄を握った手を保護するもので、柄と刀身の境目にある金属の板。
+    > The "*tsuba*" is the metal plate located between the hilt and the blade of a sword, designed to protect the hand gripping the handle.
+- 刀で戦う二人が、たがいに相手の刀の鍔で受け止めて押し合うようすから。
+    >  The term originates from the sight of two combatants locking their swords together, blocking each other's blades with their "*tsuba*", while pushing against one another.
+
+# 27, 28 [微塵](<./2026 JUNE 27-28.pdf>)
+
+### みじん
+
+> particle; atom; little piece  
+> not at all; not the slightest (​used with a negative verb)
+
+- 細かいちり。
+    > Fine dust or particles.
+- また、非常に細かいもの。
+    > Also, anything extremely minute.
+- 「木っ端微塵」「微塵切り」などと使う。
+    >  It appears in terms such as "*koppadijin*", which means "*shattered to smithereens*", and "*mijingiri*", which means "*finely chopped*".
+- 仏教における、非常に小さいものを表す単位。
+    >  In Buddhism, it serves as a unit of measure, representing an extremely small entity.
+- 物質を分割し、これ以上細分できない大きさを「極微」といい、一つの極微を中心に上下・四方の六つ（計六つ）が集まってできたものを「微塵」という。
+    > The smallest possible unit of matter, indivisible into anything smaller, is called "*gokumi*", or "*atom*"; a "*mijin*", or "*particle*", therefore, is formed by the aggregation of seven such "*gokumi*" units: one at the center, with the others positioned above, below, and in the four cardinal directions.
