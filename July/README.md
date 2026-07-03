@@ -2,7 +2,7 @@
 
 ### そほうか
 
-> そほうか
+> wealthy person or family
 
 - 資産家のこと。
     > Refers to a wealthy person. 
