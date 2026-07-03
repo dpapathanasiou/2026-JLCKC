@@ -190,3 +190,16 @@
     >  In Buddhism, it serves as a unit of measure, representing an extremely small entity.
 - 物質を分割し、これ以上細分できない大きさを「極微」といい、一つの極微を中心に上下・四方の六つ（計六つ）が集まってできたものを「微塵」という。
     > The smallest possible unit of matter, indivisible into anything smaller, is called "*gokumi*", or "*atom*"; a "*mijin*", or "*particle*", therefore, is formed by the aggregation of seven such "*gokumi*" units: one at the center, with the others positioned above, below, and in the four cardinal directions.
+
+# 29, 30, [July](<../July/README.md>) 1 [素封家](<../July/2026 JUNE 29-30 - 2026 JULY 1.pdf>)
+
+### そほうか
+
+> そほうか
+
+- 資産家のこと。
+    > Refers to a wealthy person. 
+- 「素」はない、「封」は封土・領地の意。
+    > The first character of the phrase (素), meaning plain or unadorned, is absent, while the second character (封) signifies a fiefdom or territory.
+- 領地はないが、諸侯に匹敵する多くの財産があるという意から。
+    > The combined expression implies that while the individual holds no territory, their wealth is comparable to a feudal lord, or wealthy landowner.
