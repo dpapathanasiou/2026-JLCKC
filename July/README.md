@@ -14,7 +14,7 @@
 # 2, 3 [すみません](<./2026 JULY 2-3.pdf>)
 
 > excuse me; pardon me; I'm sorry; I beg your pardon​  
-> hank you; you shouldn't have; it's too much
+> thank you; you shouldn't have; it's too much
 
 - 謝るときや礼をいうとき、また、ものを頼むときにいうことば。
     > An expression used when apologizing, expressing gratitude, or making a request.
