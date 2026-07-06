@@ -20,3 +20,16 @@
     > An expression used when apologizing, expressing gratitude, or making a request.
 - 「済まない」の丁寧ないい方で、それでは自分の気持ちが済まない、満足しないという意。
     > It is a polite form of "*sumanai*", which means sorry, or excuse me, while  also implying that one's own feelings would not be settled or satisfied otherwise.
+
+# 4, 5 [双璧](<./2026 JULY 4-5.pdf>)
+
+### そうへき
+
+> a well-matched pair; peerless rivals; be an equal match
+
+- どちらが優れているか、優劣のつけがたい二つのもの。
+    > Two things of such equal excellence that it is difficult to determine which is superior.
+- 「壁」は、宝玉（貴重な玉、宝石）。
+    > The character 壁, which means sphere or ball, refers to a precious gem or jewel in this context.
+- 一対になっている双つの優れた宝玉の意から。
+    > The term derives from the concept of a pair of outstanding, matching gemstones.
