@@ -33,3 +33,29 @@
     > The character 壁, which means sphere or ball, refers to a precious gem or jewel in this context.
 - 一対になっている双つの優れた宝玉の意から。
     > The term derives from the concept of a pair of outstanding, matching gemstones.
+
+# 6, 7, 8 [兜を脱ぐ](<./2026 JULY 6-8.pdf>)
+
+### かぶとをぬぐ
+
+> to accept one's inferiority; to take one's hat off to someone​
+
+- 「参りました」「恐れ入りました」と降参すろ。
+    > An expression meaning to surrender, the equivalent of saying, "*I give up*" or "*you've got me*."
+- 昔、戦いに敗れて相手の軍門に降るとき、弓の弦を断ち、兜を脱いで、敗北を認める意思表示をしたことから。
+    > It originated from the practice of acknowledging defeat in battle, during the act of surrendering to the opposing army, by cutting one's bowstring and removing one's helmet.
+- なお、「兜」は「冑」とも書く。
+    > Note that the character for helmet can also be written as "冑", which is an older, more arcane version.
+
+# 9, 10 [おやつ](<./2026 JULY 9-10.pdf>)
+
+> between-meal snack​
+
+- おもに午後食べる間食。
+    > A snack eaten primarily in the afternoon.
+- 元来は「お八つ」。
+    > It was originally written as "*the eighth*". 
+- 昔の時刻の「八つ時」のことで、今の時刻では午後二時ごろ。
+    > This expression refers to "*yatsu-doki*", which was an hour in the old Japanese clock system corresponding to 2:00 PM today.
+- この時間帯に間食をしていたことから。
+    > At that time of the day, people were accustomed to eating a snack, which is how the phrase originated.
