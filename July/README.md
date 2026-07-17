@@ -59,3 +59,27 @@
     > This expression refers to "*yatsu-doki*", which was an hour in the old Japanese clock system corresponding to 2:00 PM today.
 - この時間帯に間食をしていたことから。
     > At that time of the day, people were accustomed to eating a snack, which is how the phrase originated.
+
+# 11, 12 [狸寝入り](<./2026 JULY 11-12.pdf>)
+
+### たぬきねいり
+
+> feigning sleep
+
+- 寝たふりすること。
+    > To pretend to be asleep.
+- 臆病な狸は、強いショックを受けると気を失って倒れ、いわゆる仮死状態になる。
+    > When a timid raccoon dog receives a strong shock, it loses consciousness and collapses, entering a state of suspended animation.
+- そのようすが寝ているように見えることから。
+    > Even though it is knocked out, it looks like it is sleeping, which is the origin of this expression.
+
+# 13, 14, 15 [杞憂](<./2026 JULY 13-15.pdf>)
+
+### きゆう
+
+> needless fear; groundless apprehension; unfounded worry​
+
+- 取り越し苦労。
+    > Anxiety that is hard to overcome. 
+- 中国の周の時代、杞の国の人が、天が落ちて地が崩れたら身の置き所がなくなると心配し、寝ることも食べることもできなかった、という説話から。
+    > This phrase originates from a story during the Zhou Dynasty in China, about the people of Qi (Henan)​: they were unable to sleep or eat because they worried that that the sky could fall at any moment, collapsing the earth, and leaving them without shelter.
