@@ -83,3 +83,13 @@
     > Anxiety that is hard to overcome. 
 - 中国の周の時代、杞の国の人が、天が落ちて地が崩れたら身の置き所がなくなると心配し、寝ることも食べることもできなかった、という説話から。
     > This phrase originates from a story during the Zhou Dynasty in China, about the people of Qi (Henan)​: they were unable to sleep or eat because they worried that that the sky could fall at any moment, collapsing the earth, and leaving them without shelter.
+
+# 16, 17 [あっけらかん](<2026 JULY 16-17.pdf>)
+
+> unconcernedly; nonchalantly; indifferently; (looking) as if nothing has happened  
+> blankly; vacantly; absentmindedly
+
+- けろりとして平気なさま。
+    > An air of nonchalance or unconcern.
+- 口をぽかんと開けてあきれる意の「あけらかん」が促音化したもの。
+    > It is a variant of "*akerakan*", which describes a look of dumbfounded astonishment marked by one's mouth hanging open, written using a geminate (double) consonant instead.
