@@ -93,3 +93,13 @@
     > An air of nonchalance or unconcern.
 - 口をぽかんと開けてあきれる意の「あけらかん」が促音化したもの。
     > It is a variant of "*akerakan*", which describes a look of dumbfounded astonishment marked by one's mouth hanging open, written using a geminate (double) consonant instead.
+
+# 18, 19 [マッチポンプ](<./2026 JULY 18-19.pdf>)
+
+> stirring up trouble in order to get credit for resolving it  
+> someone who profits from solving the problems they themselves created in the first place
+
+- 自分で火を付けて問題を起こしておき、その問題をもみ消してやると言って、金品を得ること。
+    > The act of starting a fire to create a problem, then obtaining a reward for offering to hush it up.
+- マッチで火を付けて、ポンプで消す意から。
+    > This particular "*wasei*", or Japanese word constructed of elements from one or more English terms, is based on the idea of setting a fire with a match, and then immediately extinguishing it with a pump.
