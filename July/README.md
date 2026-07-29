@@ -103,3 +103,52 @@
     > The act of starting a fire to create a problem, then obtaining a reward for offering to hush it up.
 - マッチで火を付けて、ポンプで消す意から。
     > This particular "*wasei*", or Japanese word constructed of elements from one or more English terms, is based on the idea of setting a fire with a match, and then immediately extinguishing it with a pump.
+
+# 20, 21, 22 [引導を渡す](<./2026 JULY 20-22.pdf>)
+
+### いんどうをわたす
+
+> to perform the last rites over the deceased​  
+> to give someone their final notice (e.g. when firing them); to give someone the final word​
+
+- 最終宣告をしてあきらめさせること。
+    > To deliver a final verdict and make someone give up.
+- 「引導」は、仏教のことばで、迷っている人や魂を仏道に導くこと。
+    > "*Indō*" is a Buddhist term meaning to guide a lost person or soul to the Buddhist path.
+- 葬儀で最終的に死者の魂を導く意から転じて、最終宣告の意が生まれた。
+    > Originally referring to the act of ultimately guiding the soul of the deceased at a funeral, it evolved to mean a final verdict.
+
+# 23, 24 [贔屓](<./2026 JULY 23-24.pdf>)
+
+### ひいき
+
+> favor; patronage; favoritism; partiality​  
+> patron; supporter; backer​
+
+- 気に入った者に目をかけ、力添えをすること。
+    > To favor and support someone you like.
+- また、後授者。
+    > Another meaning is: a benefactor.
+- 本来は「贔屓」と書いて「ひき」と読み、鼻息を荒くしてがんばるさま。
+    > Originally pronounced "*hiki*", it describes someone who works hard with great enthusiasm.
+- また、重いものを好んで背負うといわれる大きな亀のこと。
+    > It also refers to the myth of a large turtle said to enjoy carrying heavy things on its back.
+- 多く、石碑の下でその石を背負うている亀をいう。
+    > Often, it refers to a stone tortoise, used as a pedestal for a tablet or a monument.
+- 転じて、他人の後ろだてになることをいう。
+    > By extension, it means to back someone up or protect them.
+
+# 25, 26 [蒲焼](<./2026 JULY 25-26.pdf>)
+
+###  かばやき 
+
+> preparation of eel, and sometimes other fish, where it is split down the back (or belly), gutted and boned, butterflied, cut into square fillets, skewered, and dipped in a sweet soy sauce-base sauce before broiled on a grill
+
+- 鰻、鱧、穴子などを開いて串を通し、たれをつけて焼いた料理。
+    > This dish is prepared by splitting open eels, conger eels (or similar fish), skewering them, coating them in sauce, and grilling them.
+- 古くは、丸のまま鰻を似てに串刺しにして焼いた。
+    > In the past, eels were skewered and grilled whole.
+- そのようすが植物の蒲の穂に似ていたから。
+    > This name, which literally means "roasted cattail", is said to have been chosen because it resembles the spikes of the cattail plant.
+- また、焼き色が樺の樹皮に似ているからという説もある。
+    > Another theory suggests the name came from the grilled color, which resembles the bark of a birch tree.
