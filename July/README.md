@@ -152,3 +152,36 @@
     > This name, which literally means "roasted cattail", is said to have been chosen because it resembles the spikes of the cattail plant.
 - また、焼き色が樺の樹皮に似ているからという説もある。
     > Another theory suggests the name came from the grilled color, which resembles the bark of a birch tree.
+
+# 27, 28, 29 [槍玉に挙げる](<./2026 JULY 27-29.pdf>)
+
+### やりだまにあげる
+
+> to make an example of; to make a victim of; to hold up someone (something) to ridicule; to single out someone for criticism  
+> to pierce with a spear​
+
+- （多くの中から）特定の対象を選んで、批判・攻撃をすること。
+    > Selecting a specific target (out of many) to criticize or attack.
+- 「槍玉」は、手玉を扱うように槍を自由に操ること。
+    > The phrase "*yaridama*" refers to the act of freely manipulating a spear as if handling a ball.
+- また、槍で人を突き刺すこと。
+    > It also means to stab someone with a spear.
+- 「槍玉に挙げる」で、槍の先で人を突き刺し、それを高く突き上げる意。
+    > The combined expression means to stab someone with the tip of a spear, and then spike the spear up into the air.
+- それから、特定の対象を選んで、見せしめにする意に発展したと考えられる。
+    > It is thought that the term evolved into its current idiomatic meaning of intending to select a specific target to attack, and then showing off.
+
+# 30, 31 [落とし前](<./2026 JULY 30-31.pdf>)
+
+### おとしまえ
+
+> settlement (of a dispute); making amends; settling a score; money paid to settle a dispute
+
+- 失敗などのあと始末すること。
+    > To clean up after a failure.
+- 「落とし前をつける」などと使う。
+    > It is also written with a trailing "*turn on; put on*" phrase (をつける).
+- もとは、敵屋などの隠語。
+    > Originally, it was a slang word referring to a rival shop.
+- 露店などで物を売るとき、値を適当なところまで落として売買を成立させたことから。
+    > It refers to the act of lowering a price a street stall during negotations over a sale, in order to make the deal.
