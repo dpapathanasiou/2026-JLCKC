@@ -71,7 +71,7 @@
     > The point at which the road begins to slope downward.
 - 物を備えるという意の「手向け」が転じたもの。
     > This expression is derived from the phrase for a parting gift.
-- ここを通り過ぎるとき、旅の無事を祈って銅祖神に物をささげたことから。
+- ここを通り過ぎるとき、旅の無事を祈って道祖神に物をささげたことから。
     > Just as travelers pass the spot where they offer items to a roadside deity, to pray for a safe journey, the expression came to mean going through the most difficult part.
 
 # 13, 14 [要領](<./2026 AUGUST 13-14.pdf>)
