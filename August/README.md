@@ -89,3 +89,36 @@
     > The first character refers to the waist, while the second refers to the collar.
 - 衣服を扱うとき、必ず腰と襟のところを持つことから、物事の要点の意が生じた。
     > Putting the two characters together, it comes to mean the "essential point": analogous to handling a garment, where one picks it up by the waist and collar naturally.
+
+# 15, 16 [奈落](<./2026 AUGUST 15-16.pdf>)
+
+### ならく
+
+> Hell; Hades    
+> very bottom; the end; worst possible circumstances​
+
+- 物事のどん底。
+    > Absolute rock bottom.
+- 最終のところ。
+    > The final, lowest point.
+- 「奈落の底」などと使う。
+    > It is used in phrases such as "*the depths of the abyss*".
+- 仏教に由来することば。
+    > The term originates in Buddhism.
+- 梵語（サンスクリット語）の“naraka”の音写で。地獄という意。
+    > It is the transliteration of the Sanskrit word "*naraka*", which means hell.
+
+# 17, 18, 19 [牙城](<./2026 AUGUST 17-19.pdf>)
+
+### がじょう
+
+> stronghold (especially of an enemy or opponent); inner citadel; bastion​
+
+- 組織や勢力の中心。
+    > The center of an organization or force.
+- 「牙」は、「牙旗」の意。
+    >  The first character, meaning "*fang*", refers to a type of banner.
+- 「牙旗」は中国では天子または将軍の旗のことで、さおの上に象牙の飾りがある。
+    > That type of banner, a standard topped with an ivory ornament, was used in China to indicate the presence of the Emperor or a general. 
+- この牙旗の立っている城には大将がいることから、本拠地の意が生じた。
+    > Since the banner flown at a castle indicated that the commander-in-chief was stationed there, the term came to signify headquarters, or base of operations.
