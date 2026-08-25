@@ -122,3 +122,32 @@
     > That type of banner, a standard topped with an ivory ornament, was used in China to indicate the presence of the Emperor or a general. 
 - この牙旗の立っている城には大将がいることから、本拠地の意が生じた。
     > Since the banner flown at a castle indicated that the commander-in-chief was stationed there, the term came to signify headquarters, or base of operations.
+
+# 20, 21 [うつつを抜かす](<./2026 AUGUST 20-21.pdf>)
+
+### うつつをぬかす
+
+> to lose one's senses (over); to be out of one's mind (over); to be completely captivated (by); to be smitten; to be engrossed (in)
+
+- 物事に心を奪われる。
+    > To be captivated by something.
+- 「うつつ」は、「現」と書き、「夢」に対して「目のさあている状態」などの意。
+    > The first part can also be written with the character for "*reality*," referring to the state of being awake, as opposed to dreaming. 
+- 「うつつを抜かす」は、正気を抜かしてうまうことから、ある物事に夢中になり、心を奪われる意になった。
+    > The phrase literally means to lose one's grip on reality, evolved to mean becoming engrossed or completely captivated.
+
+
+# 22, 23, 24 [知己](<./2026 AUGUST 22-23.pdf>)
+
+### ちき
+
+> acquaintance; close friend
+
+- 親友のこと。
+    > Refers to a close friend.
+- また、単に知人のこと。
+    > Alternatively, it can refer to an acquaintance. 
+- 「学生時代からの知己」などと使う。
+    > It is used in expressions such as "*friends from my student days*."
+- 己を知る者、つまり自分をよく理解してくれいる者の意から。
+    > The second character refers to knowing oneself, or in other words some who knows you as well as you know yourself.
