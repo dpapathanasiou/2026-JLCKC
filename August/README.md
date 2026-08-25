@@ -134,7 +134,7 @@
 - 「うつつ」は、「現」と書き、「夢」に対して「目のさあている状態」などの意。
     > The first part can also be written with the character for "*reality*," referring to the state of being awake, as opposed to dreaming. 
 - 「うつつを抜かす」は、正気を抜かしてうまうことから、ある物事に夢中になり、心を奪われる意になった。
-    > The phrase literally means to lose one's grip on reality, evolved to mean becoming engrossed or completely captivated.
+    > The phrase literally means to lose one's grip on reality, and evolved to mean becoming engrossed or completely captivated.
 
 
 # 22, 23, 24 [知己](<./2026 AUGUST 22-23.pdf>)
