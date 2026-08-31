@@ -151,3 +151,48 @@
     > It is used in expressions such as "*friends from my student days*."
 - 己を知る者、つまり自分をよく理解してくれいる者の意から。
     > The second character refers to knowing oneself, or in other words some who knows you as well as you know yourself.
+
+# 24, 25, 26 [稲妻](<./2026 AUGUST 24-26.pdf>)
+
+### いなずま
+
+> lightning; flash of lightning; lightning bolt​
+
+- 雷光。
+   > Ray of light accompanying thunder. 
+- 空中放電によってひらめく火花。
+    > Sparks flashing in the air, following an electrical discharge. 
+- 「電」「いなづま」とも書く。
+    > Also written using this character, or these kana.
+- 秋に多く発生するため、稲が雷光と結びついて穂を実らせると信じられ、「稲の夫」という意から生まれたもの。
+    > Since lightning occurs most frequently in autumn, it is believed that rice plants need it to sprout ears ahead of the harvest, and so the name literally means "*husband of rice*."
+- 「つま」は、古くは夫婦や恋人がたがいに相手を呼んだことば。
+    > Furthermore, "*tsuma*" is how couples and lovers used to call each other in ancient times.
+
+
+# 27, 28 [一枚看板](<./2026 AUGUST 27-28.pdf>)
+
+### いちまいかんばん
+
+> leading player; prima donna; box-office star  
+> best item one has (to show); one's sole Sunday best; one's single area of expertise​
+
+- 団体やグループの中の、誇れる中心人物。
+    > A proud central figure in an organization or group.
+- 上方の歌舞伎小屋の前に掲げる大きな飾り看板のことで、外題（出し物のタイトル）や役者の姿絵を描く。
+    > A large decorative signboard hung in front of kabuki theaters in Kamigata (the Edo period name for the region around Kyoto), showing the title of the performance, and portraits of the actors.
+- ここに描かれるのは一座の中心役者であることから。
+    > At the center is the main actor, who is depicted this way to demonstrate importance as the key person in the troupe.
+
+# 29, 30 [後釜](<./2026 AUGUST 29-30.pdf>)
+
+### あとがま
+
+> successor; replacement​
+
+- 前任者に代わって、その地位につく人。
+    > A person who assumes a position in place of a predecessor.
+- 後任。
+    > A successor.
+- もとは、かまどに残りの火があるうちに次の釜をかけるとをいった。
+    > It originates from the practice of putting a fresh iron pot in the oven while there was still some fire left from the previous one.
