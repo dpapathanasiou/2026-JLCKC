@@ -196,3 +196,12 @@
     > A successor.
 - もとは、かまどに残りの火があるうちに次の釜をかけるとをいった。
     > It originates from the practice of putting a fresh iron pot in the oven while there was still some fire left from the previous one.
+
+# 31, [September](../September/README.md) 1, 2 [こんにちは](<../September/2026 AUGUST 31 - SEPTEMBER 1-2.pdf>)
+
+> hello; good day; good afternoon​
+
+- 昼間、人に合ったり人を訪ねたりしたときのことば。
+    > A phrase used when meeting or visiting someone during the day.
+- 「今日はご機嫌いかがですか」「今日はよいお日和で」など、「今日は...」の下を略したもの。
+    >  It is an abbreviation of longer expressions such as "*How are you doing today?*" or "*It is a lovely day today,*" omitting the part after "*Today...*"
