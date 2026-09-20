@@ -65,3 +65,44 @@
     > The first character, which is also written together with the character for writing and literature, refers to a document written on wooden tags by government offices in ancient China, to appeal to the people.
 - 「檄を飛ばす」は、その文書を急いで回す意。
     > The full expression means passing the document around quickly, with a sense of urgency.
+
+# 12, 13 [虫が知らせる](<./2026 SEPTEMBER 12-13.pdf>)
+
+### むしがしらせる
+
+> to forebode; to have a presentiment​
+
+- いやな予感をなんとなく感じるたとえ。
+    > An expression used to describe a vague sense of foreboding or a premonition of something unpleasant.
+- 「虫が知らせたのか、事故を起こした電車に乗らずに難をまぬがれた」などと使う。
+    > It is used in phrases such as, "*I avoided disaster by not boarding the train that ended up in an accident, perhaps I had a hunch*."
+- 「虫」は、人間のからだの中にあって、感情や気分などにさまざまな影響を与えるとされていたもの。
+    > The "*insect*" here refers to the thing inside the human body which influences emotions and moods.
+- 「虫の居所が悪い」などの「虫」も同じ意から。
+    > Expressions such as "*being in a bad mood, cranky*" stem from the same idea.
+
+# 14, 15, 16 [矢継ぎ早](<./2026 SEPTEMBER 14-16.pdf>)
+
+### やつぎばや
+
+> in rapid succession; rapid-fire
+
+- 続けざまに物事を行うさま。
+    > This refers to doing things in rapid succession.
+- 「矢継ぎ早の質問」などと使う。
+    > This expression is used in phrases such as "*a barrage of questions*."
+- 「矢継ぎ」は、連続して矢を射るときの動作。
+    > The start of the expression literally means "*arrow-splicing*," which describes the action of shooting arrows continuously, one after the other.
+- 矢を継ぎかえるのが早いということから。
+    > The last term, for quickness or speed, derives from the cadence with which a series of arrows are readied for shooting.
+
+# 17, 18 [上の空](<./2026 SEPTEMBER 17-18.pdf>)
+
+### うわのそら
+
+> inattention; absent-mindedness​
+
+- 他のことに心を奪われて、注意が集中しないさま。
+    > A state in which one's mind is captivated by other things and cannot focus.
+- もとは「上の空の方」の意だが、平安時代、すでに「心が落ち着かない」意の例がある。
+    > While it originally meant "*an absent-minded state*," examples of it being used to mean "*a restless or unsettled state of mind*" already existed as early as the Heian period.
