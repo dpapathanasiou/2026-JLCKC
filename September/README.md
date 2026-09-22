@@ -106,3 +106,22 @@
     > A state in which one's mind is captivated by other things and cannot focus.
 - もとは「上の空の方」の意だが、平安時代、すでに「心が落ち着かない」意の例がある。
     > While it originally meant "*an absent-minded state*," examples of it being used to mean "*a restless or unsettled state of mind*" already existed as early as the Heian period.
+
+# 19, 20 [跋扈](<./2026 SEPTEMBER 19-20.pdf>)
+
+### ばっこ
+
+> rampancy; prevalence; domination​
+
+- 悪いものが勝手放題にのさばり、はびここと。
+    > Evil forces running rampant and spreading unchecked.
+- 「悪徳商法が跋扈する」などと使う。
+    > It is used in the phrase "*unscrupulous business practices run rampant*."
+- 「跋」は、踏み越える意。
+    > The first character means stepping over or trampling something.
+- 「扈」は、魚を捕られるための竹製の梁のこと。
+    > The second character refers to a bamboo fish trap.
+- 大きい魚が暴れて梁を飛び越えてしまうようすから転じたことば。
+    > The term originated from the image of a large fish violently thrashing in such a trap.
+- 一説に、権勢を笠に着て横暴だった中国後漢の梁冀を跋扈将軍と呼んだことからともいう。
+    > Another theory suggests the term is derived from the nickname given to Liang Ji, a tyrannical official of the late Han dynasty in China who abused his power.
