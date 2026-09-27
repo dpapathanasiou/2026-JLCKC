@@ -125,3 +125,27 @@
     > The term originated from the image of a large fish violently thrashing in such a trap.
 - 一説に、権勢を笠に着て横暴だった中国後漢の梁冀を跋扈将軍と呼んだことからともいう。
     > Another theory suggests the term is derived from the nickname given to Liang Ji, a tyrannical official of the late Han dynasty in China who abused his power.
+
+# 21, 22, 23 [古稀](<./2026 SEPTEMBER 21-23.pdf>)
+
+### こき
+
+> One's 70th birthday​
+
+- 七十歳の異称。
+    > An alias for being seventy years old.
+- 中国唐の詩人、杜甫の詩の一節、「人生七十、古来稀なり」から。
+    > It originates from a line in a poem by the Tang Dynasty Chinese poet Du Fu: "*Reaching seventy has always been rare, since ancient times*."
+- なお、代用字で「古希」とも当てる。
+    > It can also be written with a slightly different second character.
+
+# 24, 25 [七輪](<./2026 SEPTEMBER 24-25.pdf>)
+
+### しちりん
+
+> portable charcoal stove made of clay
+
+- 土製のこんろ。
+    > An earthenware portable cooking brazier.
+- ものを煮炊きするのに、七厘ほどの値段の炭ですむということから。
+    > It gets its name from the cost of charcoal needed for cooking, which traditionally amounted to "*seven bits*," with the second character being a homonym for "*wheel*."
