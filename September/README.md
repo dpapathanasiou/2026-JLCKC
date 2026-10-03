@@ -149,3 +149,36 @@
     > An earthenware portable cooking brazier.
 - ものを煮炊きするのに、七厘ほどの値段の炭ですむということから。
     > It gets its name from the cost of charcoal needed for cooking, which traditionally amounted to "*seven bits*," with the second character being a homonym for "*wheel*."
+
+# 26, 27 [序の口](<./2026 SEPTEMBER 26-27.pdf>)
+
+### じょのくち
+
+> this is only the beginning; just the start​  
+> the lowest division in sumo​
+
+- 物事が始まったばかりであること。
+    > The very beginning of something.
+- 相撲で最も下の位。
+    > The lowest rank in sumo wrestling.
+- 入門したての力士は、の位からスタートすることから。
+    > The expression comes from the fact that newly recruited sumo wrestlers start at this rank.
+
+# 28, 29, 30 [御する](<./2026 SEPTEMBER 28-30.pdf>)
+
+### ぎょする
+
+> to drive (e.g. a horse, carriage)​  
+> to control; to manage; to handle​  
+> to govern; to rule​
+
+- 人を思い通りの動かす。
+    > To make someone do what you want.
+- 「御しがたい人物」などと使う。
+    > Used in phrases such as "*he is a difficult person to control*."
+- もとは、馬など巧みに扱う意。
+    > It originally meant skillfully handling horses.
+- 転じて、人をうまく操る意になった。
+    > By extension, it also came to mean manipulating people.
+- 「馭する」とも書く。
+    > It can also be written this way, using the Chinese character for guiding or driving a horse.
