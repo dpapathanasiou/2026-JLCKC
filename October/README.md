@@ -26,3 +26,21 @@
     > The first part of the expression is a counter for such garments, while the final character refers to a type of sheer silk.
 - 一張羅が変化して、「一張来」ともいう。
     > The expression evolved from this combination of terms, and it is sometimes also written with a different final character.
+
+# 5, 6, 7 [獅子身中の虫](<./2026 OCTOBER 5-7.pdf>)
+
+### しししんちゅうのむし
+
+> snake in one's bosom; treacherous friend​  
+> thorn in one's side
+
+- 内部から災いを起こす人。
+    > A person who causes disaster from within.
+- 恩を仇で返す人。
+    > Someone who repays kindness with ingratitude.
+- 「梵網経」の下巻にあることば。
+    >  This term appears in the second volume of the "*Brahmajala Sutra,*" also known as the Sutra of Brahma's Net.
+- 獅子の体内に寄生している虫が、その獅子の肉を食い、やがて獅子を滅ぼすということから。
+    > The expression is based on the parasites living inside lions,  devouring their flesh, and eventually destroying them from within.
+- 仏教では、仏教徒でありながら、仏教に害をあたえる者のたとえとして使われる。
+    > In Buddhism, it is used as a metaphor for someone who causes harm to the faith, despite professing to be a Buddhist.
