@@ -44,3 +44,19 @@
     > The expression is based on the parasites living inside lions,  devouring their flesh, and eventually destroying them from within.
 - 仏教では、仏教徒でありながら、仏教に害をあたえる者のたとえとして使われる。
     > In Buddhism, it is used as a metaphor for someone who causes harm to the faith, despite professing to be a Buddhist.
+
+# 8, 9 [栞](<./2026 OCTOBER 8-9.pdf>)
+
+### しおり
+
+> bookmark  
+> guidebook
+
+- 書物の読みかけのところにはさんで目印とする紙片やひも。
+    > A piece of paper or string used as a marker to keep track of a place in a book.
+- もとは「枝折り」。
+    > It can also be written this way.
+- 山道を行くとき、木の枝を折って帰りの目印とすることをいった。
+    > The phrase originates from the practice of breaking off a branch to use as a landmark when walking along a mountain path.
+- それが転じて、書物の間にはさんで目印とするものや、案内書などを「しおり」というようになった。
+    > This meaning evolved to refer to something placed between the pages of a book to mark a point; it also means guidebook more generally.
