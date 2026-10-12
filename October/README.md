@@ -60,3 +60,16 @@
     > The phrase originates from the practice of breaking off a branch to use as a landmark when walking along a mountain path.
 - それが転じて、書物の間にはさんで目印とするものや、案内書などを「しおり」というようになった。
     > This meaning evolved to refer to something placed between the pages of a book to mark a point; it also means guidebook more generally.
+
+# 10, 11 [筈](<2026 OCTOBER 10-11.pdf>)
+
+### はず
+
+> should (be); bound (to be); expected (to be); must (be)
+
+- （物事が）当然そうなること。
+    > Things which happen naturally.
+- 「筈」は、「矢筈」の意で、矢を弓につがえるとき、弓の弦からはずれないように矢の末端につけるものを指す。
+    > The term comes from one of the characters for "*arrow holder,*" referring to the part that is attached to the tip of an arrow, to prevent it from coming off the string of the bow when it is strung on a bow.
+- その矢筈と弦は、当然うまく合うようにできていることから、「当然そうなること」の意が生じた。
+    > The arrowhead and string were naturally designed to fit well together, and so the first character came to imply one followed from the other,  of course, which took on a more abstract meaning.
