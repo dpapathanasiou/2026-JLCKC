@@ -73,3 +73,17 @@
     > The term comes from one of the characters for "*arrow holder,*" referring to the part that is attached to the tip of an arrow, to prevent it from coming off the string of the bow when it is strung on a bow.
 - その矢筈と弦は、当然うまく合うようにできていることから、「当然そうなること」の意が生じた。
     > The arrowhead and string were naturally designed to fit well together, and so the first character came to imply one followed from the other,  of course, which took on a more abstract meaning.
+
+# 12, 13, 14 [一頭地を抜く](<./2026 OCTOBER 12-14.pdf>)
+
+### いっとうちをぬく
+
+> to cut a conspicuous figure  
+> to be the best by far 
+
+- 人より一歩抜きんでる。
+    > To stand a cut above the others.
+- 「一頭地」の「地」は、助辞で、意味はなく「一頭」と同じ意。
+    > The final character in the first part of the phrase is a particle, which carries no meaning of its own.
+- 他の者より頭一つ分だけ抜け出ている意から。
+    > This expression effectively means "*one head*," that is, the image of being a full head height above everyone else.
