@@ -87,3 +87,31 @@
     > The final character in the first part of the phrase is a particle, which carries no meaning of its own.
 - 他の者より頭一つ分だけ抜け出ている意から。
     > This expression effectively means "*one head*," that is, the image of being a full head height above everyone else.
+
+# 15, 16 [三文判](<./2026 OCTOBER 15-16.pdf>)
+
+### さんもんばん
+
+> ready-made seal; cheap seal​
+
+- できあいの安い印鑑。
+    > An inexpensive, ready-made personal seal.
+- 「三文」は、一文銭三枚分の値。
+    > The first two characters refer to the value of three one-mon coins, the mon being the currency of Japan during the Muromachi period.
+- 転じて、非常に安価なこと。
+    > By extension, it signifies something very cheap. 
+- 「判」は、印判の意。
+    > The final character means seal or stamp.
+
+# 17, 18 [軍門に降る](<./2026 OCTOBER 17-18.pdf>)
+
+### ぐんもんにくだる
+
+> to capitulate; to surrender; to submit to; to concede​
+
+- 戦争や試合に負けたり、競争に敗れたりして、相手に屈服するたとえ。
+    > A metaphor for submitting to an opponent after being defeated in a war, a match, or a competition.
+- 「軍門」は、戦場における陣営の出入り口のこと。
+    > The first two characters literally mean "*military gate*" and refer to the entrance of a military camp on a battlefield.
+- 投降して敵の軍門に入るという意から。
+    > The expression originates from the act of surrendering and entering the enemy's camp.
