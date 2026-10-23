@@ -115,3 +115,19 @@
     > The first two characters literally mean "*military gate*" and refer to the entrance of a military camp on a battlefield.
 - 投降して敵の軍門に入るという意から。
     > The expression originates from the act of surrendering and entering the enemy's camp.
+
+# 19, 20, 21 [堪能](<./2026 OCTOBER 19-21.pdf>)
+
+### たんのう
+
+> proficient; skilled; skillful; good; accomplished  
+> enjoying to the full; full satisfaction; being satiated (with); having one's fill (of)​
+
+- 十分に味わい、満足すること。
+    > To fully enjoy or experience something to one's satisfaction.
+- もとは、「十分に足りる」という意の「足んぬ」。
+    > The term originated from the word *tannu*, meaning "to be fully sufficient."
+- それが「たんぬ」→「たんの」→「たんのう」と変化したもの。
+    > Over time, it evolved from *tannu* to *tanno* and finally *tannō*.
+- 「堪能」は、当て字。
+    > The kanji representation is an example of *ateji,* which is the selection of characters for their sound, rather than their meanings.
