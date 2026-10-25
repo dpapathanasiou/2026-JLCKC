@@ -131,3 +131,18 @@
     > Over time, it evolved from *tannu* to *tanno* and finally *tannō*.
 - 「堪能」は、当て字。
     > The kanji representation is an example of *ateji,* which is the selection of characters for their sound, rather than their meanings.
+
+# 22, 23 [肝心](<./2026 OCTOBER 22-23.pdf>)
+
+### かんじん
+
+> essential; important; crucial; vital; main​
+
+- とくに大切であるさま。
+    > Something which is especially important.
+- もとは「かんしん」と読み、肝臓と心臓のこと。
+    > Originally pronounced "*kanshin,*" it refers to the liver and heart.
+- 漢方でいう五臓（心臓肝臓腎臓脾臓肺臓）のうち、肝臓と心臓がとくに重要な臓器であることから。
+    > In Chinese medicine, the liver and heart are the most important of the "five organs" (heart, liver, kidneys, spleen, and lungs).
+- 「肝腎」とも書く。
+    > It can also be written using the characters for liver and kidney.
