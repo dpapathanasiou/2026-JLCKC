@@ -146,3 +146,18 @@
     > In Chinese medicine, the liver and heart are the most important of the "five organs" (heart, liver, kidneys, spleen, and lungs).
 - 「肝腎」とも書く。
     > It can also be written using the characters for liver and kidney.
+
+# 24, 25 [狼狽](<./2026 OCTOBER 24-25.pdf>)
+
+### ろうばい
+
+> confusion; dismay; consternation; panic​
+
+- うろえること。
+    > A state of confusion or panic.
+- 「狼」も「狽」も、中国の伝説上の動物。
+    > Both characters are types of wolves, legendary animals from Chinese folklore.
+- 狼は後ろ足が短く、狽は前足が短いため、狽が狼の背に乗り、常に一組になって歩くという。
+    > It is said that one has short hind legs, while the other has short forelegs; consequently, the latter rides on the back of the former, and so the two always move together as a pair.
+- 両者が離れると、うまく歩けなくなって慌ててしまうことから。
+    > If they become separated, they are unable to walk properly and fall into a state of panicked confusion, a phenomenon from which the term is derived.
