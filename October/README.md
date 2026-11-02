@@ -161,3 +161,37 @@
     > It is said that one has short hind legs, while the other has short forelegs; consequently, the latter rides on the back of the former, and so the two always move together as a pair.
 - 両者が離れると、うまく歩けなくなって慌ててしまうことから。
     > If they become separated, they are unable to walk properly and fall into a state of panicked confusion, a phenomenon from which the term is derived.
+
+# 26, 27, 28 [加薬](<./2026 OCTOBER 26-28.pdf>)
+
+### かやく
+
+> spices; condiments; seasoning
+
+- サンショウ、ショウガ、ネギなど料理に添える香辛料。薬味。
+    > Condiments or seasonings, such as Japanese pepper, ginger, or green onions, which are added to dishes.
+- また、五目飯、うどんなどに入れる具。
+    > The term also refers to ingredients added to mixed rice or udon noodles.
+- 漢方の言葉で、主要薬の効果を高めるための補助薬のこと。
+    > In traditional Chinese medicine, it denotes an auxiliary agent used to enhance the efficacy of a primary medicinal substance.
+- 転じて、料理に加える薬味や、飯や麺類に加えるさまざま具の意になった。
+    > By extension, the term has come to refer to seasonings added to food, as well as the various ingredients incorporated into rice or noodle dishes.
+
+# 29, 30 [生兵法](<./2026 OCTOBER 29-30.pdf>)
+
+### なまびょうほう
+
+> crude tactics; smattering of knowledge​
+
+- 中途半端な知識や技能。
+    > Refers to incomplete or superficial knowledge and skills.
+- 「生兵法は大怪我のもと（中途半端な知識や技能で事を行うと大失敗する）」などと使われる。
+    > It is often used in the expression, "A little knowledge is a dangerous thing" (literally: "A half-baked mastery of martial arts leads to serious injury," meaning that attempting something with only partial knowledge or skill can result in a major failure).
+- 「兵法」は、武術の心得。
+    > The last two characters mean knowledge of martial arts.
+- 「生」は、中途半端であることと示す接統語。
+    > While the prefix character means "raw," indicating incompleteness.
+- つまり、武術の心得はあっても、非常に未熟であるという意。
+    > In other words, it describes a state where one possesses some knowledge of martial arts but remains highly unskilled.
+- 転じて、知識や技術などまだ身についてないことをいう言葉になった。
+    > Over time, the term has come to be used more broadly to describe a lack of proper mastery over any form of knowledge or skill.
